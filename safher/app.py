@@ -5,6 +5,100 @@ import plotly.express as px
 import plotly.graph_objects as go
 from math import radians, cos, sin, asin, sqrt
 import time
+import random
+import os
+
+# ─── Inline Data Generation (no CSV files needed) ────────────────────────────
+def generate_all_data():
+    random.seed(42)
+    np.random.seed(42)
+
+    cities = {
+        "Mumbai": (19.0760, 72.8777), "Delhi": (28.6139, 77.2090),
+        "Bangalore": (12.9716, 77.5946), "Chennai": (13.0827, 80.2707),
+        "Kolkata": (22.5726, 88.3639), "Hyderabad": (17.3850, 78.4867),
+        "Pune": (18.5204, 73.8567), "Jaipur": (26.9124, 75.7873),
+        "Ahmedabad": (23.0225, 72.5714), "Goa": (15.2993, 74.1240),
+        "Bhopal": (23.2599, 77.4126), "Kochi": (9.9312, 76.2673),
+    }
+    languages = {
+        "Mumbai": ["Hindi","Marathi","English","Gujarati"],
+        "Delhi": ["Hindi","English","Punjabi","Urdu"],
+        "Bangalore": ["Kannada","English","Hindi","Tamil"],
+        "Chennai": ["Tamil","English","Telugu","Malayalam"],
+        "Kolkata": ["Bengali","Hindi","English"],
+        "Hyderabad": ["Telugu","Hindi","English","Urdu"],
+        "Pune": ["Marathi","Hindi","English"],
+        "Jaipur": ["Hindi","Rajasthani","English"],
+        "Ahmedabad": ["Gujarati","Hindi","English"],
+        "Goa": ["Konkani","English","Hindi"],
+        "Bhopal": ["Hindi","English","Urdu"],
+        "Kochi": ["Malayalam","English","Tamil","Hindi"],
+    }
+    guardian_types = ["Verified Local Woman","Host Family","Certified Ally","NGO Partner","Hostel Guardian"]
+    specializations = ["Emergency Response","Medical Help","Escort Service","Language Assist","Legal Aid","General Safety"]
+    first_names = ["Priya","Ananya","Riya","Neha","Kavya","Sneha","Pooja","Meera","Divya","Aisha",
+                   "Fatima","Sunita","Rekha","Geeta","Lakshmi","Sana","Nisha","Deepa","Radha","Asha",
+                   "Ramesh","Suresh","Arjun","Vikram","Sanjay","Mohan","Raj","Dev","Anil","Vinod"]
+    last_names = ["Sharma","Verma","Patel","Singh","Kumar","Reddy","Nair","Menon","Iyer","Joshi",
+                  "Gupta","Mehta","Shah","Das","Roy","Khan","Ali","Pillai","Rao","Mishra"]
+
+    guardians = []
+    for i in range(500):
+        city = random.choice(list(cities.keys()))
+        lat, lon = cities[city]
+        lang_list = random.sample(languages[city], k=random.randint(1, min(3, len(languages[city]))))
+        guardians.append({
+            "guardian_id": f"G{i+1:04d}",
+            "name": f"{random.choice(first_names)} {random.choice(last_names)}",
+            "city": city,
+            "latitude": round(lat + np.random.uniform(-0.05, 0.05), 6),
+            "longitude": round(lon + np.random.uniform(-0.05, 0.05), 6),
+            "type": random.choice(guardian_types),
+            "specialization": random.choice(specializations),
+            "languages": ", ".join(lang_list),
+            "rating": round(np.random.uniform(3.8, 5.0), 1),
+            "response_time_min": random.randint(3, 20),
+            "verified": random.choices([True, False], weights=[85, 15])[0],
+            "available_now": random.choices([True, False], weights=[60, 40])[0],
+            "total_assists": random.randint(5, 300),
+            "background_checked": random.choices([True, False], weights=[90, 10])[0],
+            "phone": f"+91 {random.randint(7000000000, 9999999999)}",
+            "joined_year": random.randint(2020, 2024),
+        })
+
+    incidents = []
+    for i in range(200):
+        city = random.choice(list(cities.keys()))
+        lat, lon = cities[city]
+        incidents.append({
+            "incident_id": f"INC{i+1:04d}",
+            "city": city,
+            "type": random.choice(["Harassment","Lost","Medical","Theft","Unsafe Area","Emergency"]),
+            "resolved": random.choices([True, False], weights=[92, 8])[0],
+            "response_time_min": random.randint(2, 25),
+            "guardian_type_used": random.choice(guardian_types),
+            "severity": random.choice(["Low","Medium","High"]),
+            "latitude": round(lat + np.random.uniform(-0.05, 0.05), 6),
+            "longitude": round(lon + np.random.uniform(-0.05, 0.05), 6),
+            "year": random.randint(2021, 2024),
+        })
+
+    zones = []
+    for city, (lat, lon) in cities.items():
+        for j in range(random.randint(5, 12)):
+            zones.append({
+                "zone_id": f"Z{len(zones)+1:04d}",
+                "city": city,
+                "name": f"{city} Zone {j+1}",
+                "latitude": round(lat + np.random.uniform(-0.08, 0.08), 6),
+                "longitude": round(lon + np.random.uniform(-0.08, 0.08), 6),
+                "safety_score": round(np.random.uniform(50, 99), 1),
+                "guardian_count": random.randint(3, 25),
+                "type": random.choice(["High Safety","Moderate","Caution","Tourist Safe"]),
+            })
+
+    return pd.DataFrame(guardians), pd.DataFrame(incidents), pd.DataFrame(zones)
 
 # ─── Page Config ─────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -238,12 +332,10 @@ div[data-testid="stButton"] > button {
 # ─── Load Data ────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    guardians = pd.read_csv("data/guardians.csv")
-    incidents = pd.read_csv("data/incidents.csv")
-    zones = pd.read_csv("data/safety_zones.csv")
-    return guardians, incidents, zones
+    return generate_all_data()
 
 guardians_df, incidents_df, zones_df = load_data()
+
 
 # ─── Helper Functions ─────────────────────────────────────────────────────────
 def haversine(lat1, lon1, lat2, lon2):
@@ -648,7 +740,7 @@ with tabs[3]:
                     title="Safety", tickfont=dict(color='#a07cd0'),
                     bgcolor='rgba(26,10,46,0.8)',
                     bordercolor='rgba(196,130,255,0.2)',
-                    titlefont=dict(color='#c482ff'),
+                    title_font=dict(color='#c482ff'),
                 ),
             )
             st.plotly_chart(fig_zones, use_container_width=True)
@@ -732,7 +824,7 @@ with tabs[4]:
             xaxis=dict(gridcolor='rgba(196,130,255,0.08)'),
             yaxis=dict(gridcolor='rgba(196,130,255,0.08)'),
             coloraxis_colorbar=dict(tickfont=dict(color='#a07cd0'), bgcolor='rgba(0,0,0,0)',
-                                    titlefont=dict(color='#c482ff')),
+                                    title_font=dict(color='#c482ff')),
             margin=dict(l=0, r=0, t=40, b=0),
         )
         st.plotly_chart(fig1, use_container_width=True)
