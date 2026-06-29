@@ -1,0 +1,501 @@
+guardian_id,name,city,latitude,longitude,type,specialization,languages,rating,response_time_min,verified,available_now,total_assists,background_checked,phone,joined_year
+G0001,Vikram Iyer,Bhopal,23.247354,77.457671,Host Family,Medical Help,Hindi,4.7,7,True,False,284,True,+91 8812140441,2020
+G0002,Meera Ali,Mumbai,19.085866,72.843302,Hostel Guardian,Emergency Response,Marathi,4.0,20,True,False,284,True,+91 8929338154,2024
+G0003,Arjun Das,Kolkata,22.528408,88.400518,Certified Ally,Escort Service,Bengali,4.5,7,True,False,57,True,+91 7415393687,2022
+G0004,Deepa Singh,Hyderabad,17.405807,78.438758,NGO Partner,Emergency Response,"English, Telugu, Hindi",5.0,20,True,False,190,True,+91 7298737106,2020
+G0005,Riya Menon,Bhopal,23.293144,77.383834,Verified Local Woman,Language Assist,English,4.0,11,True,False,88,True,+91 7899825838,2022
+G0006,Deepa Menon,Kochi,9.89954,76.247724,Host Family,Language Assist,"Malayalam, Tamil, Hindi",4.4,15,True,False,290,True,+91 8392783743,2020
+G0007,Rekha Iyer,Chennai,13.075895,80.249823,Verified Local Woman,Medical Help,Telugu,4.5,13,True,True,239,True,+91 7599707677,2021
+G0008,Anil Rao,Kochi,9.895149,76.246514,NGO Partner,Escort Service,"Tamil, Hindi, English",4.2,10,False,True,257,True,+91 7202363285,2020
+G0009,Asha Patel,Bangalore,12.967207,77.623118,NGO Partner,Language Assist,"English, Hindi, Tamil",4.0,17,True,False,10,True,+91 7491995979,2024
+G0010,Geeta Reddy,Kolkata,22.574023,88.373141,NGO Partner,Emergency Response,"Hindi, Bengali, English",3.9,11,False,False,264,False,+91 9685643886,2022
+G0011,Sunita Reddy,Bhopal,23.270654,77.379652,Hostel Guardian,Legal Aid,"Urdu, Hindi, English",3.9,3,True,True,62,False,+91 8320763135,2021
+G0012,Riya Khan,Mumbai,19.120889,72.924263,Verified Local Woman,Legal Aid,Hindi,4.8,7,True,True,286,True,+91 9266341635,2024
+G0013,Sanjay Nair,Pune,18.500861,73.816467,Certified Ally,Language Assist,English,4.6,14,True,True,66,True,+91 7274989148,2022
+G0014,Priya Patel,Mumbai,19.070015,72.839904,Verified Local Woman,Medical Help,"Marathi, English, Hindi",4.4,5,False,False,41,True,+91 8196050747,2023
+G0015,Meera Khan,Chennai,13.036139,80.311632,NGO Partner,Medical Help,"English, Telugu, Malayalam",4.1,6,True,True,221,True,+91 7232663462,2020
+G0016,Meera Nair,Mumbai,19.092252,72.858871,Host Family,Legal Aid,"English, Hindi",4.4,17,True,True,241,True,+91 7323775634,2023
+G0017,Ramesh Pillai,Ahmedabad,23.027171,72.539885,Verified Local Woman,Emergency Response,Gujarati,5.0,10,True,True,114,True,+91 7251837136,2021
+G0018,Divya Roy,Pune,18.547913,73.90065,Certified Ally,Language Assist,Hindi,4.9,20,True,True,102,True,+91 7251183830,2024
+G0019,Ananya Verma,Kochi,9.94099,76.309487,Hostel Guardian,Language Assist,"Malayalam, Tamil, English",3.9,19,False,True,34,False,+91 7344076115,2021
+G0020,Rekha Singh,Delhi,28.583498,77.163523,Hostel Guardian,Medical Help,"Hindi, Punjabi, Urdu",4.2,4,True,True,294,True,+91 8119980130,2021
+G0021,Rekha Kumar,Bhopal,23.248768,77.389735,Certified Ally,Language Assist,"English, Hindi, Urdu",4.8,13,False,False,9,True,+91 9418039268,2020
+G0022,Kavya Mehta,Delhi,28.599575,77.187093,Verified Local Woman,Medical Help,"English, Punjabi, Urdu",4.5,14,True,True,283,True,+91 9627135980,2024
+G0023,Anil Kumar,Mumbai,19.040092,72.90792,Certified Ally,Emergency Response,"English, Gujarati, Hindi",3.9,6,True,True,149,True,+91 8472659626,2021
+G0024,Anil Verma,Bhopal,23.308589,77.439824,Verified Local Woman,General Safety,"English, Urdu, Hindi",4.0,16,True,True,175,True,+91 9736381108,2022
+G0025,Deepa Sharma,Bangalore,12.922152,77.626146,Verified Local Woman,Emergency Response,"Tamil, Hindi, English",4.6,7,True,False,287,True,+91 7547374338,2020
+G0026,Pooja Menon,Kolkata,22.595501,88.391027,Verified Local Woman,Escort Service,"Bengali, Hindi",3.9,20,False,True,84,False,+91 8016779084,2021
+G0027,Vikram Gupta,Bangalore,12.957447,77.556187,NGO Partner,General Safety,"Kannada, Tamil",4.8,10,True,False,60,True,+91 7166320906,2023
+G0028,Sunita Joshi,Chennai,13.09503,80.25379,Host Family,Medical Help,Malayalam,3.9,3,True,True,147,True,+91 8198832728,2022
+G0029,Neha Iyer,Bhopal,23.240998,77.395118,Host Family,Legal Aid,"English, Urdu, Hindi",4.7,11,True,True,181,True,+91 8347233823,2023
+G0030,Divya Verma,Goa,15.313056,74.162721,NGO Partner,Emergency Response,"Konkani, English, Portuguese",4.4,19,False,True,105,True,+91 7300535210,2022
+G0031,Anil Joshi,Goa,15.261259,74.145324,Hostel Guardian,Escort Service,"Konkani, Hindi",4.7,16,True,False,288,True,+91 8805803262,2023
+G0032,Deepa Sharma,Bhopal,23.266028,77.439697,Certified Ally,Escort Service,"Hindi, English, Urdu",4.4,9,True,True,169,True,+91 8899061865,2021
+G0033,Suresh Patel,Ahmedabad,23.024773,72.564154,Certified Ally,Legal Aid,"English, Gujarati",3.8,13,True,False,125,True,+91 7964824319,2021
+G0034,Meera Khan,Bangalore,12.932389,77.547743,Hostel Guardian,Emergency Response,Kannada,4.6,17,True,False,104,True,+91 8649174966,2023
+G0035,Ramesh Sharma,Pune,18.501836,73.857557,Verified Local Woman,Language Assist,Marathi,4.9,10,True,False,270,True,+91 9394039673,2021
+G0036,Suresh Ali,Delhi,28.588829,77.200038,Hostel Guardian,Legal Aid,"English, Urdu",4.7,13,False,False,263,True,+91 9353092123,2023
+G0037,Sanjay Menon,Bangalore,12.94448,77.552298,Certified Ally,Legal Aid,"Tamil, English, Hindi",4.1,18,True,True,44,True,+91 8007142260,2022
+G0038,Kavya Menon,Hyderabad,17.351122,78.52967,NGO Partner,General Safety,"Telugu, Urdu",4.8,7,True,True,213,True,+91 9001129658,2023
+G0039,Rekha Rao,Mumbai,19.08934,72.914846,Verified Local Woman,Legal Aid,Gujarati,4.8,15,True,False,157,True,+91 8799682701,2024
+G0040,Divya Das,Kochi,9.899857,76.306556,NGO Partner,Emergency Response,"English, Hindi, Malayalam",4.4,15,True,False,212,True,+91 9007425404,2021
+G0041,Riya Das,Goa,15.330044,74.163609,Host Family,Language Assist,"Konkani, English, Portuguese",4.2,8,True,True,113,True,+91 8449553823,2023
+G0042,Sana Sharma,Kolkata,22.533605,88.336694,Hostel Guardian,Emergency Response,"Hindi, Bengali",4.3,14,True,True,25,True,+91 8062073697,2021
+G0043,Sana Singh,Mumbai,19.107801,72.913773,Hostel Guardian,Medical Help,"Marathi, Hindi, English",3.8,17,True,False,90,True,+91 7491914923,2021
+G0044,Priya Joshi,Kolkata,22.573675,88.355641,Hostel Guardian,General Safety,English,4.1,15,True,False,43,True,+91 9693985578,2021
+G0045,Mohan Rao,Delhi,28.575887,77.192762,Verified Local Woman,Escort Service,"Punjabi, Urdu, Hindi",4.9,20,True,True,264,True,+91 7054340558,2023
+G0046,Sunita Roy,Jaipur,26.89472,75.789179,Host Family,Language Assist,Rajasthani,4.6,8,True,False,143,True,+91 9311435034,2023
+G0047,Fatima Menon,Jaipur,26.898763,75.834478,Verified Local Woman,Escort Service,"English, Rajasthani",5.0,17,True,True,199,True,+91 9123030247,2022
+G0048,Mohan Iyer,Bangalore,12.946778,77.594325,Certified Ally,Escort Service,"English, Tamil",4.2,11,True,True,102,True,+91 8745595491,2023
+G0049,Sana Khan,Ahmedabad,23.000984,72.525089,NGO Partner,Emergency Response,English,4.5,5,True,True,129,True,+91 9497762234,2022
+G0050,Vikram Pillai,Jaipur,26.912668,75.742448,Certified Ally,Escort Service,"English, Rajasthani, Hindi",4.1,17,True,True,66,True,+91 8355268102,2020
+G0051,Vikram Khan,Kochi,9.972027,76.241256,Certified Ally,General Safety,"English, Malayalam, Tamil",4.0,19,True,False,104,True,+91 8549972386,2021
+G0052,Deepa Kumar,Kolkata,22.571545,88.412465,Certified Ally,Emergency Response,English,4.1,4,True,False,69,True,+91 9108307952,2020
+G0053,Lakshmi Gupta,Mumbai,19.093214,72.903862,Host Family,Emergency Response,"English, Marathi, Gujarati",4.1,11,False,True,38,True,+91 7318180503,2024
+G0054,Mohan Rao,Bhopal,23.282722,77.399378,Certified Ally,Emergency Response,"Hindi, Urdu, English",4.6,10,True,False,120,True,+91 8633711193,2023
+G0055,Aisha Rao,Jaipur,26.925753,75.790877,Hostel Guardian,Emergency Response,"English, Rajasthani",3.9,6,False,True,113,True,+91 7348697524,2021
+G0056,Sneha Sharma,Chennai,13.11623,80.252778,NGO Partner,Language Assist,Tamil,4.0,18,True,True,149,True,+91 8950049698,2020
+G0057,Mohan Rao,Bhopal,23.213978,77.421689,Host Family,Language Assist,English,4.6,6,True,False,141,True,+91 7306702926,2020
+G0058,Neha Roy,Bangalore,12.923259,77.595809,Certified Ally,General Safety,"Hindi, English",4.1,15,False,True,257,True,+91 9568547910,2020
+G0059,Riya Menon,Pune,18.534917,73.824137,Hostel Guardian,Legal Aid,"Hindi, English, Marathi",4.6,3,False,False,142,True,+91 7752438459,2023
+G0060,Radha Das,Ahmedabad,23.011174,72.615073,NGO Partner,Emergency Response,"Hindi, English, Gujarati",4.0,18,True,True,58,True,+91 8416495962,2023
+G0061,Rekha Pillai,Kochi,9.915307,76.228647,Verified Local Woman,Language Assist,"Tamil, Hindi",4.9,5,True,True,211,True,+91 7004943787,2024
+G0062,Nisha Mehta,Jaipur,26.950134,75.763094,Hostel Guardian,Language Assist,"Hindi, English",4.6,17,True,True,286,True,+91 8237075775,2023
+G0063,Ramesh Mishra,Kochi,9.962922,76.27282,Host Family,General Safety,"Malayalam, Hindi",4.4,8,True,True,213,True,+91 7487311805,2023
+G0064,Nisha Iyer,Delhi,28.588085,77.16831,NGO Partner,Language Assist,"English, Urdu, Punjabi",4.9,18,True,True,201,True,+91 9574307168,2024
+G0065,Divya Das,Kochi,9.971242,76.28061,Certified Ally,Legal Aid,Malayalam,4.2,11,True,True,157,True,+91 9490751945,2023
+G0066,Fatima Pillai,Bangalore,12.956521,77.617196,Hostel Guardian,Language Assist,"Tamil, English",4.9,17,False,False,127,True,+91 8003143045,2023
+G0067,Vinod Shah,Mumbai,19.114709,72.905688,NGO Partner,General Safety,"Gujarati, English",4.6,7,True,True,262,False,+91 8425906387,2020
+G0068,Vinod Roy,Jaipur,26.870814,75.753463,Verified Local Woman,General Safety,English,4.9,7,True,False,84,True,+91 8138264176,2022
+G0069,Dev Gupta,Goa,15.309943,74.07492,Hostel Guardian,Language Assist,"Portuguese, Hindi, Konkani",3.9,13,True,False,254,True,+91 7154185462,2024
+G0070,Meera Patel,Delhi,28.63025,77.159506,NGO Partner,Emergency Response,Punjabi,4.0,6,True,False,19,True,+91 7241030242,2022
+G0071,Meera Ali,Hyderabad,17.389873,78.50589,NGO Partner,Legal Aid,"Urdu, Telugu",4.6,8,True,True,200,True,+91 8034356087,2023
+G0072,Lakshmi Iyer,Goa,15.271727,74.145218,NGO Partner,Escort Service,English,4.1,3,False,True,152,True,+91 7678500147,2020
+G0073,Ramesh Das,Jaipur,26.89494,75.811949,Certified Ally,Language Assist,"English, Rajasthani",4.6,12,True,True,252,True,+91 8637947177,2024
+G0074,Priya Shah,Hyderabad,17.419922,78.502461,Certified Ally,Emergency Response,"English, Urdu, Hindi",4.5,4,False,False,151,True,+91 7988350974,2024
+G0075,Asha Iyer,Hyderabad,17.344367,78.473472,Host Family,General Safety,Hindi,4.1,6,False,False,163,True,+91 7143299564,2024
+G0076,Fatima Das,Hyderabad,17.359399,78.534001,Host Family,Medical Help,"Hindi, Telugu, Urdu",4.3,7,True,False,192,True,+91 8170496062,2021
+G0077,Mohan Singh,Kolkata,22.611805,88.377014,NGO Partner,Emergency Response,"Hindi, English",4.8,7,True,True,208,False,+91 9393639475,2022
+G0078,Deepa Singh,Delhi,28.614164,77.21669,NGO Partner,Escort Service,"Hindi, English",4.4,11,True,False,195,True,+91 8004257438,2023
+G0079,Ramesh Patel,Mumbai,19.045524,72.899945,NGO Partner,General Safety,"English, Gujarati, Hindi",4.1,12,True,True,28,False,+91 8307235909,2023
+G0080,Anil Pillai,Delhi,28.566332,77.223547,Host Family,Language Assist,English,4.0,17,True,False,281,True,+91 7663670797,2023
+G0081,Asha Das,Bhopal,23.303946,77.457993,Certified Ally,Emergency Response,English,4.9,14,True,True,125,True,+91 7426724858,2022
+G0082,Divya Nair,Ahmedabad,23.009516,72.522946,Verified Local Woman,Language Assist,"Hindi, Gujarati, English",4.9,5,True,False,15,True,+91 8432410914,2021
+G0083,Radha Nair,Bangalore,12.964418,77.641265,Host Family,Escort Service,"English, Kannada, Hindi",5.0,7,True,True,146,True,+91 7621430136,2021
+G0084,Suresh Sharma,Ahmedabad,23.057801,72.550845,Host Family,Emergency Response,"Gujarati, English",4.3,14,True,True,170,True,+91 8139744790,2020
+G0085,Vikram Patel,Bangalore,13.006714,77.576292,NGO Partner,Language Assist,"Tamil, Hindi, Kannada",4.0,14,True,True,262,True,+91 9641863774,2020
+G0086,Ananya Khan,Kochi,9.93688,76.310915,NGO Partner,Language Assist,"Tamil, English, Malayalam",4.6,6,True,False,42,True,+91 8383459732,2024
+G0087,Divya Mishra,Bangalore,12.978606,77.554318,Hostel Guardian,Legal Aid,English,4.5,13,True,True,155,True,+91 9600288277,2023
+G0088,Geeta Roy,Delhi,28.662905,77.173008,Host Family,Language Assist,"Hindi, Punjabi, Urdu",4.4,13,True,True,53,True,+91 8342278523,2022
+G0089,Riya Patel,Hyderabad,17.422737,78.510777,Verified Local Woman,Emergency Response,Urdu,4.6,16,True,False,71,True,+91 9518848328,2024
+G0090,Geeta Mehta,Ahmedabad,23.042748,72.557349,NGO Partner,General Safety,"English, Gujarati",4.2,4,False,False,185,True,+91 9179320310,2021
+G0091,Sunita Pillai,Bangalore,13.002536,77.625611,Certified Ally,Emergency Response,"Tamil, Kannada, Hindi",4.8,11,True,False,292,False,+91 9670283403,2024
+G0092,Priya Reddy,Bhopal,23.301224,77.413734,Certified Ally,General Safety,"Urdu, Hindi, English",4.4,12,False,True,97,True,+91 9432330583,2023
+G0093,Riya Ali,Delhi,28.64373,77.223996,Host Family,Language Assist,Hindi,4.6,16,True,True,164,True,+91 9437795758,2024
+G0094,Sneha Mishra,Delhi,28.643479,77.248001,Verified Local Woman,General Safety,English,4.2,5,True,False,253,True,+91 8778905619,2022
+G0095,Neha Joshi,Chennai,13.070258,80.230098,Hostel Guardian,Language Assist,"Tamil, English, Telugu",4.5,19,True,True,207,False,+91 7235286733,2020
+G0096,Sanjay Iyer,Chennai,13.036294,80.26726,Certified Ally,Escort Service,"English, Tamil",4.5,6,True,False,94,True,+91 9287423767,2021
+G0097,Rekha Verma,Ahmedabad,23.001154,72.580483,NGO Partner,Emergency Response,"English, Hindi, Gujarati",3.8,17,False,False,299,True,+91 8736983049,2023
+G0098,Priya Gupta,Kolkata,22.526335,88.39616,Host Family,Legal Aid,Hindi,4.2,17,True,False,50,True,+91 7454678712,2021
+G0099,Dev Joshi,Pune,18.483106,73.858924,Certified Ally,Medical Help,"Hindi, Marathi, English",4.7,13,True,True,63,True,+91 7832810061,2022
+G0100,Kavya Iyer,Hyderabad,17.356582,78.498989,Host Family,Medical Help,"Hindi, Telugu, English",3.9,7,True,False,95,False,+91 9697019445,2023
+G0101,Dev Gupta,Jaipur,26.867568,75.790435,Host Family,Language Assist,"English, Rajasthani, Hindi",4.4,5,True,False,145,True,+91 8511580323,2024
+G0102,Ananya Verma,Delhi,28.627643,77.231609,Certified Ally,Escort Service,"Urdu, English",5.0,5,True,False,51,True,+91 9177839698,2023
+G0103,Vinod Rao,Jaipur,26.91403,75.769596,Host Family,Escort Service,"English, Hindi, Rajasthani",4.8,18,True,False,235,True,+91 8475054001,2020
+G0104,Arjun Roy,Ahmedabad,22.999583,72.565297,NGO Partner,Legal Aid,"Gujarati, English, Hindi",3.9,19,True,True,149,True,+91 8453275827,2024
+G0105,Neha Pillai,Mumbai,19.028535,72.923965,NGO Partner,Escort Service,"English, Hindi, Marathi",4.8,11,True,False,81,True,+91 9502847163,2021
+G0106,Asha Patel,Hyderabad,17.404597,78.477595,Certified Ally,Legal Aid,"Urdu, Telugu",4.0,15,True,True,70,True,+91 9943832590,2024
+G0107,Priya Mehta,Delhi,28.579544,77.184024,Certified Ally,Medical Help,"Urdu, Punjabi, English",4.5,9,True,False,103,True,+91 7590838716,2021
+G0108,Sanjay Pillai,Delhi,28.63536,77.22502,Hostel Guardian,Emergency Response,"Hindi, Punjabi",4.1,13,False,False,197,True,+91 7776727492,2024
+G0109,Sunita Menon,Bangalore,13.017087,77.61839,NGO Partner,Legal Aid,"Tamil, Kannada, English",4.5,12,True,False,124,True,+91 8329154472,2023
+G0110,Sanjay Joshi,Chennai,13.093872,80.26266,NGO Partner,Legal Aid,"Malayalam, English",4.1,19,True,True,107,True,+91 7594417160,2022
+G0111,Arjun Ali,Mumbai,19.061597,72.903485,Verified Local Woman,Escort Service,"Gujarati, Marathi, Hindi",3.8,5,True,True,267,True,+91 8878930355,2020
+G0112,Geeta Verma,Chennai,13.044307,80.2253,NGO Partner,Legal Aid,"Telugu, Tamil",3.8,14,True,False,196,True,+91 8368741091,2020
+G0113,Ananya Joshi,Kochi,9.966746,76.287666,NGO Partner,General Safety,"Tamil, Malayalam, Hindi",4.4,7,True,True,7,False,+91 7081621076,2022
+G0114,Neha Joshi,Chennai,13.042483,80.269862,Host Family,Escort Service,Malayalam,4.4,6,True,True,239,True,+91 9146750150,2024
+G0115,Nisha Rao,Ahmedabad,22.98982,72.564785,Host Family,General Safety,English,4.3,7,True,True,185,True,+91 8789144223,2021
+G0116,Nisha Pillai,Bhopal,23.271485,77.426109,Hostel Guardian,Legal Aid,"Hindi, English, Urdu",3.9,20,True,False,27,True,+91 8603321558,2022
+G0117,Mohan Patel,Kochi,9.918661,76.279886,Certified Ally,Medical Help,Tamil,4.4,6,True,False,175,True,+91 8513112872,2024
+G0118,Arjun Khan,Hyderabad,17.420649,78.502569,Host Family,Medical Help,"Hindi, English, Urdu",4.0,5,True,False,23,True,+91 7188146518,2021
+G0119,Rekha Pillai,Mumbai,19.033057,72.891942,NGO Partner,Escort Service,"English, Gujarati",3.8,4,True,True,187,True,+91 7205316740,2022
+G0120,Geeta Shah,Kolkata,22.581178,88.407923,NGO Partner,Language Assist,Hindi,4.5,13,False,True,259,True,+91 9230272804,2022
+G0121,Asha Reddy,Delhi,28.602717,77.223329,Hostel Guardian,Escort Service,"Urdu, Hindi, English",4.3,13,True,True,156,True,+91 9588240189,2023
+G0122,Ananya Mehta,Bangalore,12.976162,77.638746,Hostel Guardian,Language Assist,"Tamil, English, Hindi",4.3,11,True,False,34,True,+91 9738095498,2023
+G0123,Dev Mishra,Hyderabad,17.431119,78.527235,NGO Partner,Emergency Response,"Hindi, Telugu, English",4.0,7,True,False,192,True,+91 9436297208,2020
+G0124,Sunita Mehta,Goa,15.256236,74.084078,NGO Partner,Emergency Response,Portuguese,3.8,7,True,True,147,True,+91 7487258103,2020
+G0125,Nisha Shah,Kochi,9.890644,76.285601,Hostel Guardian,Emergency Response,Hindi,3.9,11,True,False,114,False,+91 8226543337,2023
+G0126,Dev Patel,Chennai,13.064598,80.305188,NGO Partner,Medical Help,English,3.8,17,False,False,168,True,+91 7278911214,2024
+G0127,Arjun Reddy,Ahmedabad,23.053947,72.549585,Certified Ally,Legal Aid,"Hindi, Gujarati",3.9,10,True,True,76,True,+91 9121808073,2020
+G0128,Asha Patel,Hyderabad,17.404674,78.499594,Verified Local Woman,Escort Service,"English, Hindi, Telugu",4.9,15,False,False,274,True,+91 8758503592,2024
+G0129,Ramesh Patel,Delhi,28.637407,77.239348,NGO Partner,Language Assist,Punjabi,4.1,19,True,False,287,True,+91 7781525718,2021
+G0130,Aisha Reddy,Pune,18.488144,73.881761,Host Family,Escort Service,"Marathi, English, Hindi",4.8,10,True,False,150,True,+91 8076341629,2021
+G0131,Asha Pillai,Bhopal,23.308951,77.403862,Verified Local Woman,Legal Aid,"English, Hindi, Urdu",4.2,8,True,True,92,True,+91 9599051823,2022
+G0132,Riya Verma,Goa,15.326941,74.10808,Hostel Guardian,Escort Service,Konkani,4.9,9,True,True,20,True,+91 9693648923,2024
+G0133,Mohan Shah,Kolkata,22.608441,88.356799,Certified Ally,Language Assist,"Hindi, English, Bengali",4.7,5,True,True,217,True,+91 7876272170,2022
+G0134,Dev Gupta,Goa,15.324754,74.084312,Certified Ally,Language Assist,Hindi,4.9,7,True,True,59,True,+91 9003484425,2020
+G0135,Neha Verma,Kolkata,22.573125,88.396546,Certified Ally,Language Assist,"Bengali, English",4.2,16,True,False,86,True,+91 9481146933,2022
+G0136,Nisha Roy,Chennai,13.122252,80.25962,NGO Partner,Escort Service,Malayalam,3.8,18,True,False,263,True,+91 8033921654,2021
+G0137,Aisha Khan,Goa,15.339838,74.083129,Hostel Guardian,General Safety,"Konkani, Portuguese",4.2,18,True,True,60,True,+91 8135902437,2022
+G0138,Ananya Rao,Pune,18.565406,73.901761,Hostel Guardian,Medical Help,"Marathi, Hindi",4.5,14,True,True,263,True,+91 9361618235,2022
+G0139,Rekha Mehta,Goa,15.312484,74.118845,Certified Ally,Legal Aid,"Konkani, Portuguese, Hindi",4.2,14,True,True,265,True,+91 7172893522,2020
+G0140,Mohan Khan,Mumbai,19.058866,72.894952,Hostel Guardian,Language Assist,English,4.7,7,True,True,172,False,+91 8368076065,2021
+G0141,Nisha Ali,Pune,18.549558,73.885662,Hostel Guardian,Language Assist,"English, Hindi, Marathi",3.9,12,True,True,174,True,+91 8789026838,2024
+G0142,Divya Rao,Kolkata,22.572042,88.319656,Hostel Guardian,Medical Help,"English, Bengali, Hindi",4.5,4,True,True,199,True,+91 9923699745,2021
+G0143,Lakshmi Gupta,Mumbai,19.070153,72.91647,NGO Partner,Medical Help,"Hindi, Gujarati, English",4.2,16,True,True,246,True,+91 7267496095,2021
+G0144,Fatima Khan,Ahmedabad,22.984207,72.535699,Hostel Guardian,Language Assist,English,4.7,13,False,True,277,True,+91 8521651018,2022
+G0145,Divya Pillai,Goa,15.311122,74.084112,Certified Ally,Medical Help,"English, Konkani",3.9,12,True,False,255,True,+91 8498098234,2024
+G0146,Radha Pillai,Kochi,9.951297,76.224576,NGO Partner,Language Assist,"Tamil, Malayalam",4.8,14,False,False,153,True,+91 7339428835,2022
+G0147,Pooja Pillai,Jaipur,26.933024,75.745435,Certified Ally,Legal Aid,"Rajasthani, English, Hindi",3.9,11,True,False,127,True,+91 9876914972,2024
+G0148,Geeta Gupta,Chennai,13.131364,80.258127,NGO Partner,Emergency Response,"English, Tamil, Telugu",4.2,7,True,True,85,True,+91 9043114400,2023
+G0149,Fatima Joshi,Bhopal,23.29118,77.457325,Verified Local Woman,Emergency Response,English,5.0,10,True,False,24,False,+91 7751897503,2023
+G0150,Mohan Khan,Bangalore,12.996938,77.582226,Host Family,General Safety,Tamil,3.9,12,False,True,295,True,+91 8438994940,2022
+G0151,Dev Ali,Jaipur,26.940115,75.79314,NGO Partner,Escort Service,"English, Rajasthani, Hindi",4.3,9,True,True,239,True,+91 7799718923,2020
+G0152,Suresh Nair,Kochi,9.971835,76.22842,Host Family,Legal Aid,"Tamil, Hindi",4.4,15,True,True,49,True,+91 7409675904,2021
+G0153,Priya Iyer,Bangalore,12.922735,77.591466,NGO Partner,Medical Help,"Hindi, Kannada",3.9,17,True,False,159,True,+91 9460489491,2020
+G0154,Suresh Singh,Kolkata,22.534482,88.325653,NGO Partner,Escort Service,"Hindi, Bengali, English",4.6,8,True,True,164,True,+91 9743244243,2022
+G0155,Sana Kumar,Hyderabad,17.409604,78.495037,NGO Partner,General Safety,"Hindi, Telugu, English",5.0,14,True,True,246,True,+91 9852263888,2021
+G0156,Nisha Mehta,Chennai,13.070187,80.249271,Verified Local Woman,Legal Aid,"Tamil, Telugu, English",4.8,6,True,True,263,True,+91 9304937838,2021
+G0157,Suresh Nair,Bangalore,12.94396,77.640922,Hostel Guardian,Language Assist,"Tamil, Kannada",3.8,5,False,True,33,True,+91 9204382691,2023
+G0158,Vikram Sharma,Jaipur,26.959388,75.741616,NGO Partner,Escort Service,"Hindi, Rajasthani, English",4.9,3,True,True,28,True,+91 7273846739,2024
+G0159,Ananya Joshi,Mumbai,19.07877,72.926996,NGO Partner,Medical Help,Gujarati,3.9,7,True,False,220,True,+91 8642737456,2023
+G0160,Ramesh Mehta,Pune,18.525785,73.90363,Verified Local Woman,Medical Help,"Marathi, English",4.4,20,True,True,119,True,+91 7097647459,2022
+G0161,Raj Menon,Jaipur,26.92534,75.806875,Host Family,Language Assist,"English, Rajasthani, Hindi",4.3,14,True,True,62,True,+91 9835527487,2023
+G0162,Pooja Patel,Goa,15.312056,74.132431,Verified Local Woman,Legal Aid,English,4.9,4,True,False,29,True,+91 7189995314,2023
+G0163,Pooja Verma,Jaipur,26.866945,75.765396,Host Family,Legal Aid,English,4.9,12,True,False,299,True,+91 9568036839,2022
+G0164,Nisha Menon,Chennai,13.121726,80.266266,NGO Partner,Escort Service,"English, Telugu",4.5,11,True,False,94,True,+91 8834812535,2024
+G0165,Ramesh Shah,Jaipur,26.890138,75.756112,Hostel Guardian,Escort Service,Rajasthani,4.4,16,True,True,99,True,+91 9033747850,2021
+G0166,Vinod Verma,Chennai,13.068035,80.279066,Hostel Guardian,Language Assist,"English, Malayalam",3.9,16,True,True,129,True,+91 8418468740,2020
+G0167,Ananya Iyer,Jaipur,26.959839,75.835921,NGO Partner,General Safety,"Hindi, English",4.6,4,False,True,291,True,+91 7897171779,2022
+G0168,Vinod Nair,Kolkata,22.57621,88.344853,Verified Local Woman,General Safety,Bengali,4.8,18,False,False,109,True,+91 8027918636,2024
+G0169,Deepa Mehta,Hyderabad,17.403473,78.452962,Certified Ally,Escort Service,"Urdu, Hindi",4.9,14,True,True,55,True,+91 9016446001,2022
+G0170,Ananya Rao,Chennai,13.114954,80.31568,Host Family,General Safety,"Telugu, English",4.7,7,True,True,218,True,+91 7842637307,2022
+G0171,Deepa Gupta,Chennai,13.094042,80.262524,Certified Ally,Language Assist,"English, Malayalam",4.9,18,True,False,185,True,+91 9347398593,2023
+G0172,Raj Patel,Bangalore,13.008206,77.549122,Verified Local Woman,Emergency Response,"Kannada, Hindi, Tamil",3.8,16,True,False,39,True,+91 7039262289,2021
+G0173,Asha Mishra,Ahmedabad,23.010146,72.602455,NGO Partner,General Safety,"Hindi, Gujarati",5.0,18,True,True,215,True,+91 9273831457,2022
+G0174,Mohan Reddy,Ahmedabad,22.987542,72.580813,Verified Local Woman,Emergency Response,"Gujarati, Hindi",4.3,19,True,True,274,True,+91 8522312933,2022
+G0175,Rekha Roy,Pune,18.567391,73.890912,Hostel Guardian,Medical Help,Hindi,4.8,10,True,False,46,True,+91 9791275402,2020
+G0176,Deepa Khan,Delhi,28.610769,77.200482,Verified Local Woman,General Safety,"Urdu, English",4.1,3,True,True,227,True,+91 8422796478,2024
+G0177,Anil Rao,Delhi,28.569538,77.245472,NGO Partner,Escort Service,"Hindi, Urdu, Punjabi",4.8,4,False,False,148,True,+91 9420256439,2020
+G0178,Radha Kumar,Bangalore,13.021572,77.644264,NGO Partner,Emergency Response,"Kannada, Tamil",4.5,12,True,True,204,True,+91 9321697981,2022
+G0179,Ananya Singh,Pune,18.547299,73.901177,NGO Partner,Medical Help,"Marathi, English, Hindi",4.8,5,True,False,208,False,+91 8401777036,2020
+G0180,Meera Mehta,Bhopal,23.234635,77.407654,Hostel Guardian,Language Assist,"English, Urdu",4.0,16,True,True,199,True,+91 9656935034,2022
+G0181,Kavya Shah,Chennai,13.128105,80.281317,Host Family,General Safety,"Tamil, Malayalam, English",4.1,15,True,True,7,False,+91 8910126009,2022
+G0182,Riya Reddy,Kolkata,22.58977,88.375713,NGO Partner,Language Assist,Bengali,4.2,20,True,True,18,True,+91 9380355948,2020
+G0183,Aisha Das,Goa,15.260656,74.141157,NGO Partner,Emergency Response,"Hindi, English, Konkani",4.4,20,False,False,297,True,+91 9943409776,2023
+G0184,Aisha Iyer,Bangalore,12.998832,77.596616,NGO Partner,Medical Help,Hindi,4.8,5,True,True,158,True,+91 7330374745,2022
+G0185,Ramesh Khan,Kolkata,22.577791,88.369994,Hostel Guardian,Legal Aid,English,4.9,9,True,True,8,False,+91 8426862057,2024
+G0186,Geeta Mishra,Pune,18.510748,73.820102,Host Family,Escort Service,"Hindi, English",3.8,13,True,False,250,True,+91 8710425977,2022
+G0187,Fatima Shah,Kolkata,22.598114,88.375931,Certified Ally,Language Assist,"English, Hindi, Bengali",4.6,14,True,True,284,True,+91 9362657890,2020
+G0188,Mohan Joshi,Kochi,9.902496,76.230937,Verified Local Woman,Language Assist,"English, Hindi",3.8,18,True,True,134,True,+91 8817320723,2023
+G0189,Rekha Pillai,Delhi,28.598959,77.217992,Hostel Guardian,General Safety,"Urdu, Punjabi",4.3,16,True,False,189,True,+91 9305993661,2024
+G0190,Sanjay Menon,Bhopal,23.253647,77.453016,Certified Ally,Medical Help,Hindi,4.2,4,True,False,209,False,+91 8424196985,2023
+G0191,Divya Menon,Delhi,28.615299,77.237365,Hostel Guardian,General Safety,Hindi,4.3,19,True,False,118,True,+91 8679908454,2023
+G0192,Priya Khan,Bhopal,23.272109,77.448836,Verified Local Woman,Escort Service,"Urdu, Hindi, English",4.9,16,False,True,77,True,+91 8473460179,2023
+G0193,Neha Roy,Chennai,13.047407,80.313359,NGO Partner,Escort Service,"Malayalam, English, Telugu",4.4,5,True,False,63,True,+91 8473508573,2020
+G0194,Meera Ali,Bhopal,23.235724,77.408514,Host Family,Legal Aid,Urdu,5.0,8,True,True,241,True,+91 8739665472,2021
+G0195,Vikram Mishra,Bangalore,12.970862,77.577475,Host Family,Language Assist,"Tamil, English, Kannada",4.6,16,True,False,110,True,+91 7268709250,2024
+G0196,Pooja Roy,Delhi,28.587915,77.166586,Verified Local Woman,Escort Service,"English, Urdu, Punjabi",4.0,18,True,False,203,True,+91 9521166052,2020
+G0197,Sneha Joshi,Hyderabad,17.347805,78.45189,Hostel Guardian,Legal Aid,"Urdu, English",4.0,5,True,True,127,True,+91 7786170238,2022
+G0198,Geeta Mishra,Kochi,9.945287,76.235488,Host Family,Legal Aid,Hindi,4.2,15,True,True,280,True,+91 9771370988,2021
+G0199,Aisha Kumar,Ahmedabad,23.062179,72.568796,Host Family,Escort Service,Hindi,4.6,17,True,False,9,True,+91 7838070464,2023
+G0200,Suresh Khan,Ahmedabad,22.989732,72.540629,NGO Partner,General Safety,"English, Hindi, Gujarati",3.8,17,True,True,20,True,+91 7947167036,2022
+G0201,Aisha Reddy,Mumbai,19.042894,72.855559,NGO Partner,Legal Aid,"Marathi, English",4.0,18,True,True,63,True,+91 9332623275,2022
+G0202,Lakshmi Pillai,Ahmedabad,22.98137,72.533464,Host Family,Language Assist,English,4.4,6,True,False,131,True,+91 7138428506,2023
+G0203,Dev Singh,Kolkata,22.543233,88.350327,Host Family,Medical Help,"Bengali, Hindi",4.4,14,False,False,224,True,+91 7598009614,2021
+G0204,Deepa Iyer,Chennai,13.101739,80.224631,Hostel Guardian,Legal Aid,Telugu,4.8,8,True,False,153,True,+91 9209395548,2020
+G0205,Dev Kumar,Bangalore,12.98439,77.552776,Host Family,Medical Help,"Kannada, English",4.8,7,True,False,206,True,+91 9480023764,2022
+G0206,Riya Patel,Bhopal,23.301987,77.368708,NGO Partner,Legal Aid,"English, Urdu",4.1,11,True,False,237,False,+91 8405696743,2024
+G0207,Ramesh Mehta,Mumbai,19.10662,72.902526,Verified Local Woman,Legal Aid,"Hindi, English, Marathi",4.0,15,True,True,113,True,+91 8386695233,2022
+G0208,Mohan Gupta,Hyderabad,17.355935,78.473747,Verified Local Woman,Emergency Response,"Hindi, English, Urdu",4.4,6,True,False,13,True,+91 7678534043,2023
+G0209,Pooja Kumar,Jaipur,26.924225,75.774191,Certified Ally,Medical Help,Rajasthani,4.4,11,True,True,47,True,+91 9787052438,2021
+G0210,Arjun Menon,Mumbai,19.100747,72.831368,NGO Partner,General Safety,"English, Gujarati",4.1,5,True,True,249,True,+91 9549834042,2021
+G0211,Arjun Gupta,Ahmedabad,23.043835,72.610921,Verified Local Woman,Language Assist,"Hindi, Gujarati, English",4.4,7,True,True,50,True,+91 7439921366,2020
+G0212,Rekha Kumar,Hyderabad,17.388211,78.447417,Host Family,Emergency Response,"English, Telugu",4.3,19,True,False,89,True,+91 7915066176,2021
+G0213,Riya Singh,Pune,18.523662,73.830947,Host Family,Emergency Response,"English, Hindi, Marathi",4.1,15,True,True,76,True,+91 9768624284,2020
+G0214,Dev Joshi,Chennai,13.070428,80.222707,Host Family,Legal Aid,"Telugu, Malayalam, Tamil",4.2,19,True,True,32,True,+91 8027962091,2023
+G0215,Sana Mishra,Pune,18.491545,73.83945,Verified Local Woman,Legal Aid,Marathi,3.9,3,False,False,72,True,+91 9441175185,2023
+G0216,Priya Rao,Hyderabad,17.424053,78.496059,Verified Local Woman,Emergency Response,"Hindi, Urdu, Telugu",4.6,11,True,False,208,True,+91 9699690577,2024
+G0217,Riya Pillai,Pune,18.549317,73.856544,Hostel Guardian,Legal Aid,"English, Hindi",3.9,7,True,True,266,False,+91 7667339697,2024
+G0218,Arjun Das,Hyderabad,17.388711,78.495384,Host Family,Emergency Response,"Telugu, Hindi",4.7,10,True,True,237,True,+91 7236346130,2022
+G0219,Priya Kumar,Bhopal,23.253066,77.375358,Verified Local Woman,Medical Help,"Urdu, Hindi, English",4.1,18,False,True,137,True,+91 7545162815,2022
+G0220,Fatima Das,Kochi,9.917508,76.281892,Certified Ally,Legal Aid,Malayalam,4.5,5,True,False,44,True,+91 9193791472,2022
+G0221,Sneha Iyer,Mumbai,19.06161,72.926352,Verified Local Woman,Legal Aid,"Marathi, Gujarati",4.5,6,True,True,27,True,+91 7052776893,2021
+G0222,Vinod Kumar,Mumbai,19.049723,72.837878,Host Family,Emergency Response,"English, Marathi",4.0,20,True,False,219,True,+91 8066282253,2023
+G0223,Radha Mehta,Kochi,9.905796,76.233368,Verified Local Woman,Legal Aid,"Tamil, Malayalam",4.0,4,True,False,28,False,+91 7296036788,2023
+G0224,Deepa Roy,Kolkata,22.55111,88.331237,Verified Local Woman,Escort Service,"Hindi, Bengali",4.9,9,True,False,129,True,+91 9541293188,2023
+G0225,Vinod Das,Chennai,13.040723,80.273151,Verified Local Woman,Medical Help,"English, Tamil, Telugu",4.3,20,True,False,9,False,+91 7006279398,2023
+G0226,Nisha Menon,Kochi,9.979438,76.228504,NGO Partner,Language Assist,"Tamil, Malayalam, Hindi",4.3,4,False,True,148,True,+91 7994167107,2024
+G0227,Radha Singh,Pune,18.567347,73.893251,Hostel Guardian,Medical Help,"Hindi, English, Marathi",4.8,15,True,True,227,True,+91 7561387824,2021
+G0228,Arjun Gupta,Kolkata,22.54839,88.330989,Certified Ally,Language Assist,"Hindi, English",4.6,11,True,False,74,True,+91 9511301900,2020
+G0229,Lakshmi Roy,Bangalore,13.014538,77.600276,Certified Ally,Language Assist,English,4.5,6,True,False,111,True,+91 8990058467,2022
+G0230,Mohan Joshi,Delhi,28.591898,77.235949,Hostel Guardian,Emergency Response,English,4.0,9,True,True,51,True,+91 8527903519,2023
+G0231,Aisha Iyer,Ahmedabad,23.004868,72.563944,Host Family,Emergency Response,English,4.4,15,False,True,286,True,+91 8984460654,2020
+G0232,Ananya Menon,Bangalore,12.945841,77.556084,Host Family,Medical Help,Kannada,4.5,15,True,False,48,True,+91 8111626210,2020
+G0233,Anil Roy,Mumbai,19.054863,72.885824,Host Family,Emergency Response,Marathi,4.0,13,True,False,30,True,+91 9464813860,2023
+G0234,Rekha Das,Kochi,9.929314,76.270559,Host Family,Escort Service,"Hindi, Malayalam",3.9,9,False,True,233,True,+91 7148818209,2024
+G0235,Sana Das,Goa,15.28296,74.087441,Hostel Guardian,Language Assist,"English, Hindi, Portuguese",3.9,4,True,True,219,True,+91 9258354191,2021
+G0236,Sana Pillai,Bhopal,23.308896,77.394835,NGO Partner,Escort Service,"Hindi, English, Urdu",4.8,19,True,True,18,True,+91 7940684569,2020
+G0237,Nisha Mehta,Kolkata,22.548064,88.38205,Hostel Guardian,Medical Help,Hindi,4.7,8,True,False,141,True,+91 7240125829,2021
+G0238,Sneha Menon,Goa,15.308864,74.121158,Hostel Guardian,Escort Service,"Hindi, Konkani",4.3,14,False,True,185,False,+91 9420671425,2021
+G0239,Deepa Joshi,Goa,15.284187,74.166953,Host Family,Language Assist,Portuguese,4.8,4,True,True,117,True,+91 9052947074,2020
+G0240,Arjun Reddy,Hyderabad,17.431503,78.44913,Certified Ally,Emergency Response,"Hindi, Telugu, Urdu",4.7,3,True,False,77,True,+91 9260419271,2022
+G0241,Neha Gupta,Delhi,28.657734,77.177123,Certified Ally,Escort Service,"Urdu, Punjabi",3.9,7,False,False,228,True,+91 9092508149,2022
+G0242,Rekha Joshi,Bangalore,12.995712,77.602047,Certified Ally,Medical Help,"Hindi, Kannada, Tamil",4.8,8,True,False,298,True,+91 9437319900,2020
+G0243,Ramesh Rao,Bangalore,12.935577,77.624127,Verified Local Woman,Language Assist,"Hindi, Tamil, Kannada",4.0,7,True,True,182,False,+91 7721070971,2020
+G0244,Divya Nair,Kochi,9.897566,76.233727,Host Family,General Safety,"Tamil, English, Malayalam",4.8,5,True,False,5,True,+91 8882141157,2023
+G0245,Sunita Pillai,Bangalore,12.98812,77.596907,NGO Partner,Emergency Response,"Tamil, English",4.2,18,True,True,120,True,+91 7316579418,2020
+G0246,Divya Singh,Kolkata,22.61032,88.353145,Verified Local Woman,Escort Service,Hindi,4.8,8,False,True,43,True,+91 7399881571,2022
+G0247,Geeta Reddy,Goa,15.293213,74.111694,Hostel Guardian,Language Assist,"Portuguese, Hindi, Konkani",4.4,8,True,True,102,True,+91 9379894770,2024
+G0248,Neha Verma,Kolkata,22.552738,88.388661,NGO Partner,Legal Aid,"Hindi, English, Bengali",4.4,20,True,True,189,True,+91 7376360931,2022
+G0249,Neha Sharma,Bhopal,23.233121,77.452557,Host Family,Medical Help,"Urdu, English, Hindi",4.3,12,False,True,64,True,+91 8707109267,2023
+G0250,Sneha Mehta,Jaipur,26.916755,75.827947,NGO Partner,Escort Service,"Rajasthani, Hindi, English",4.5,8,True,True,243,True,+91 8153464986,2024
+G0251,Riya Mehta,Mumbai,19.03769,72.921683,Hostel Guardian,Language Assist,Hindi,4.6,10,True,False,272,True,+91 9300016872,2023
+G0252,Aisha Patel,Goa,15.282791,74.087927,NGO Partner,General Safety,Portuguese,4.8,4,True,False,297,True,+91 9664052763,2021
+G0253,Pooja Nair,Delhi,28.625907,77.212346,Host Family,Emergency Response,"English, Hindi",4.9,16,True,False,108,False,+91 9693916084,2021
+G0254,Vinod Patel,Goa,15.32816,74.089167,Verified Local Woman,Language Assist,"Hindi, Portuguese",4.2,20,True,True,146,True,+91 7053102106,2024
+G0255,Kavya Kumar,Goa,15.274149,74.148395,Hostel Guardian,Legal Aid,"Portuguese, Konkani, English",3.8,6,False,True,56,True,+91 9300528259,2022
+G0256,Radha Mishra,Pune,18.527389,73.882946,NGO Partner,Emergency Response,"Hindi, English",4.9,8,True,True,210,True,+91 8423756197,2021
+G0257,Priya Gupta,Mumbai,19.060208,72.909826,Certified Ally,Escort Service,"Gujarati, Marathi, English",3.9,11,True,False,55,False,+91 7979069637,2021
+G0258,Vikram Das,Kolkata,22.607245,88.326649,Hostel Guardian,General Safety,"Hindi, English, Bengali",4.3,5,True,True,213,True,+91 9218356672,2022
+G0259,Arjun Ali,Mumbai,19.10573,72.842692,NGO Partner,Medical Help,"Marathi, Hindi, Gujarati",4.1,19,False,True,103,True,+91 7862114934,2020
+G0260,Ananya Mehta,Chennai,13.104925,80.292704,Host Family,Escort Service,Malayalam,4.6,14,True,True,68,True,+91 8039116218,2022
+G0261,Radha Pillai,Jaipur,26.931795,75.791572,Certified Ally,Escort Service,"Rajasthani, Hindi, English",4.1,8,True,True,51,True,+91 8660286914,2020
+G0262,Suresh Nair,Bangalore,12.95617,77.56276,Certified Ally,General Safety,"English, Kannada, Hindi",4.9,16,True,False,9,True,+91 7568284681,2021
+G0263,Divya Mishra,Goa,15.307639,74.114085,Certified Ally,General Safety,English,4.4,11,True,True,183,True,+91 7937200760,2023
+G0264,Priya Ali,Kolkata,22.617328,88.329235,Certified Ally,Legal Aid,"English, Hindi, Bengali",4.5,12,True,True,37,True,+91 8187486518,2022
+G0265,Pooja Kumar,Kolkata,22.573189,88.375045,Hostel Guardian,Medical Help,"English, Hindi",3.8,4,True,False,211,True,+91 9923823693,2021
+G0266,Aisha Iyer,Kochi,9.968412,76.310512,NGO Partner,Language Assist,Hindi,4.5,15,True,True,297,True,+91 8473891248,2021
+G0267,Nisha Joshi,Bhopal,23.279565,77.45485,Host Family,General Safety,"Urdu, English, Hindi",4.6,20,True,True,70,True,+91 9401022668,2021
+G0268,Meera Mehta,Bhopal,23.225154,77.420229,Host Family,General Safety,"Urdu, Hindi",4.5,12,True,False,195,True,+91 8262939955,2023
+G0269,Radha Rao,Delhi,28.606313,77.232644,Hostel Guardian,Emergency Response,"Hindi, Punjabi",4.9,18,False,True,200,True,+91 8774282158,2020
+G0270,Fatima Das,Bangalore,13.014157,77.589684,Hostel Guardian,Language Assist,English,3.9,7,True,False,46,True,+91 9710265109,2021
+G0271,Divya Nair,Hyderabad,17.433484,78.52059,Host Family,Legal Aid,"Telugu, Urdu, Hindi",3.9,8,True,False,50,True,+91 8862776335,2023
+G0272,Priya Verma,Pune,18.562484,73.89369,Hostel Guardian,Medical Help,"Hindi, English",4.4,14,False,False,276,True,+91 9906611156,2020
+G0273,Aisha Kumar,Bhopal,23.269028,77.4025,Verified Local Woman,Language Assist,"Hindi, Urdu, English",3.9,19,True,True,28,True,+91 8249095871,2023
+G0274,Fatima Khan,Kochi,9.91472,76.297585,Certified Ally,Medical Help,"Tamil, English, Malayalam",3.8,8,False,False,211,True,+91 7963452923,2021
+G0275,Neha Mehta,Chennai,13.06605,80.260517,Verified Local Woman,Language Assist,"Tamil, Telugu, Malayalam",4.4,11,True,False,29,True,+91 9807051534,2020
+G0276,Rekha Singh,Mumbai,19.117986,72.862335,Hostel Guardian,Escort Service,"Hindi, Marathi, English",4.2,18,True,True,9,True,+91 9841827734,2020
+G0277,Raj Singh,Bhopal,23.28365,77.407822,Hostel Guardian,General Safety,"English, Hindi, Urdu",4.1,6,True,False,259,True,+91 7857917067,2022
+G0278,Arjun Das,Ahmedabad,23.017744,72.535486,Certified Ally,Medical Help,Hindi,4.0,4,True,False,251,True,+91 7011759631,2020
+G0279,Raj Rao,Bhopal,23.259737,77.404493,NGO Partner,Medical Help,Hindi,4.9,5,True,True,56,False,+91 9767405445,2021
+G0280,Ananya Singh,Jaipur,26.898639,75.795359,Host Family,Emergency Response,"Rajasthani, English",4.6,12,True,False,223,True,+91 7408015311,2020
+G0281,Fatima Mehta,Mumbai,19.027309,72.894054,NGO Partner,Legal Aid,Marathi,4.0,11,False,True,180,True,+91 8721326325,2023
+G0282,Mohan Das,Jaipur,26.958507,75.752166,Host Family,Emergency Response,"Rajasthani, English",4.3,7,True,True,86,True,+91 9537253239,2023
+G0283,Sanjay Mehta,Goa,15.257835,74.173687,Hostel Guardian,Emergency Response,"Portuguese, Konkani, English",4.4,7,True,True,215,True,+91 7272026241,2022
+G0284,Suresh Gupta,Bhopal,23.269439,77.369308,Hostel Guardian,Legal Aid,"Hindi, Urdu",4.7,6,True,False,251,True,+91 9904667340,2023
+G0285,Nisha Khan,Bangalore,12.942591,77.634405,NGO Partner,Medical Help,"Kannada, Tamil, Hindi",4.0,5,True,True,174,False,+91 7216254664,2024
+G0286,Riya Roy,Chennai,13.051769,80.224355,NGO Partner,Legal Aid,"Malayalam, English, Tamil",4.4,17,True,True,166,True,+91 9136202250,2020
+G0287,Deepa Pillai,Delhi,28.620384,77.165571,Verified Local Woman,Emergency Response,"Urdu, Hindi",4.7,12,False,True,238,False,+91 8560544045,2020
+G0288,Sanjay Mishra,Chennai,13.078029,80.273139,Hostel Guardian,Language Assist,"Telugu, Malayalam",4.3,14,True,True,118,True,+91 8525310290,2022
+G0289,Anil Reddy,Ahmedabad,23.012576,72.577364,NGO Partner,Medical Help,"Hindi, Gujarati, English",4.0,16,True,False,101,True,+91 8687477596,2021
+G0290,Fatima Singh,Jaipur,26.880593,75.823479,NGO Partner,Emergency Response,English,4.9,6,True,True,263,True,+91 9142452709,2020
+G0291,Vinod Ali,Ahmedabad,23.009831,72.548474,Host Family,General Safety,"Gujarati, Hindi, English",4.6,8,True,True,203,True,+91 9603440682,2022
+G0292,Divya Shah,Ahmedabad,23.013373,72.523939,Certified Ally,Escort Service,"Hindi, Gujarati",4.0,17,True,True,267,True,+91 9352808730,2022
+G0293,Asha Joshi,Kochi,9.952797,76.283192,Certified Ally,General Safety,"English, Malayalam, Tamil",3.8,7,False,False,96,True,+91 9982047218,2022
+G0294,Deepa Khan,Kochi,9.903397,76.240407,Hostel Guardian,Legal Aid,Tamil,4.6,16,True,False,278,True,+91 8814135645,2020
+G0295,Rekha Kumar,Ahmedabad,22.974471,72.531811,Verified Local Woman,General Safety,Gujarati,4.8,4,True,False,87,False,+91 9935139119,2022
+G0296,Pooja Pillai,Bangalore,12.939454,77.609875,Verified Local Woman,Escort Service,Hindi,4.1,17,True,False,292,True,+91 9779356860,2024
+G0297,Mohan Joshi,Pune,18.480344,73.831017,Verified Local Woman,Language Assist,English,4.7,15,True,False,165,False,+91 7231078662,2020
+G0298,Dev Roy,Kochi,9.96677,76.300322,Host Family,General Safety,"English, Tamil",4.3,14,True,True,105,True,+91 7831066348,2022
+G0299,Riya Reddy,Jaipur,26.929209,75.757798,Host Family,General Safety,English,4.2,19,True,True,147,True,+91 7558631501,2021
+G0300,Lakshmi Kumar,Goa,15.338934,74.0753,Verified Local Woman,Medical Help,"Konkani, English",3.9,13,True,False,159,True,+91 9459628934,2024
+G0301,Nisha Menon,Hyderabad,17.355789,78.439353,Host Family,Legal Aid,English,4.0,5,True,True,283,True,+91 7394903139,2022
+G0302,Fatima Mehta,Chennai,13.091004,80.262842,Certified Ally,Medical Help,Telugu,4.9,19,True,True,9,True,+91 8486090002,2023
+G0303,Rekha Singh,Chennai,13.114444,80.254882,NGO Partner,Escort Service,"English, Tamil, Malayalam",4.1,20,True,True,269,True,+91 8610432533,2024
+G0304,Aisha Nair,Ahmedabad,23.010469,72.580429,Certified Ally,Legal Aid,"Hindi, Gujarati",4.1,5,False,True,280,True,+91 9692657073,2020
+G0305,Raj Singh,Chennai,13.095115,80.261641,Host Family,Legal Aid,"English, Telugu, Malayalam",4.5,16,True,False,83,True,+91 8424706705,2020
+G0306,Sneha Iyer,Delhi,28.607513,77.188447,Hostel Guardian,Emergency Response,Hindi,4.9,10,False,True,235,True,+91 8859828364,2022
+G0307,Priya Mishra,Mumbai,19.102361,72.841711,Verified Local Woman,General Safety,"Hindi, English",4.8,4,True,True,262,True,+91 9945826425,2022
+G0308,Sanjay Roy,Goa,15.298043,74.163455,NGO Partner,Language Assist,Hindi,4.8,3,True,True,74,True,+91 9343868762,2022
+G0309,Suresh Mehta,Bhopal,23.252421,77.364847,Verified Local Woman,Legal Aid,English,4.1,20,True,True,298,True,+91 9307050488,2024
+G0310,Vikram Mehta,Delhi,28.618063,77.222348,Host Family,Language Assist,"English, Punjabi",4.1,19,True,True,134,True,+91 7778926596,2024
+G0311,Aisha Patel,Mumbai,19.039936,72.911193,Certified Ally,Emergency Response,"Gujarati, English, Hindi",5.0,9,True,True,174,True,+91 9883192498,2021
+G0312,Fatima Khan,Delhi,28.616469,77.176168,NGO Partner,Escort Service,"Hindi, Urdu",4.1,12,True,True,295,True,+91 8358640560,2023
+G0313,Meera Menon,Bangalore,12.923439,77.63603,NGO Partner,Escort Service,Hindi,3.9,14,True,False,250,True,+91 8540783437,2022
+G0314,Raj Iyer,Jaipur,26.920052,75.764706,Host Family,Legal Aid,"Hindi, English, Rajasthani",4.5,9,True,False,44,True,+91 7080016490,2024
+G0315,Radha Shah,Bhopal,23.275042,77.445574,Hostel Guardian,Medical Help,Urdu,4.0,4,True,True,281,True,+91 7638373812,2022
+G0316,Vikram Joshi,Pune,18.4715,73.820389,Host Family,Language Assist,English,4.9,19,True,True,262,True,+91 8025985237,2024
+G0317,Kavya Roy,Bhopal,23.297289,77.422341,Host Family,Medical Help,Urdu,4.5,7,True,True,188,True,+91 9094407076,2021
+G0318,Ananya Nair,Delhi,28.630404,77.176537,Hostel Guardian,Escort Service,"Punjabi, Hindi",4.9,15,True,True,28,True,+91 9785392585,2022
+G0319,Radha Pillai,Delhi,28.605777,77.197314,Hostel Guardian,Medical Help,"Punjabi, Urdu, English",4.4,15,True,True,44,True,+91 8616319802,2021
+G0320,Sana Khan,Ahmedabad,22.977197,72.538028,Hostel Guardian,Emergency Response,"Hindi, English",4.7,19,False,True,122,True,+91 9763712703,2022
+G0321,Sneha Mehta,Chennai,13.04098,80.281015,Hostel Guardian,General Safety,English,4.1,6,True,True,174,True,+91 9068098256,2023
+G0322,Sneha Das,Jaipur,26.90133,75.766169,Verified Local Woman,Medical Help,English,4.2,4,True,True,73,True,+91 7168323465,2024
+G0323,Divya Reddy,Bangalore,12.993505,77.574312,Hostel Guardian,Language Assist,English,4.5,3,False,False,150,False,+91 7930261655,2023
+G0324,Meera Das,Goa,15.296905,74.140367,Hostel Guardian,Medical Help,"Portuguese, Konkani",4.9,8,True,True,90,True,+91 8471761915,2023
+G0325,Rekha Kumar,Goa,15.322557,74.095494,Verified Local Woman,Emergency Response,"Konkani, Portuguese, English",3.8,9,True,False,219,True,+91 9600650037,2020
+G0326,Nisha Singh,Bangalore,12.947826,77.604108,Verified Local Woman,Language Assist,"Kannada, Hindi",3.9,7,False,True,5,True,+91 9914390260,2023
+G0327,Arjun Ali,Ahmedabad,23.022137,72.581084,NGO Partner,Medical Help,"Hindi, Gujarati",4.2,18,True,True,299,True,+91 7575023565,2022
+G0328,Aisha Mishra,Jaipur,26.939491,75.74796,Hostel Guardian,Language Assist,Hindi,3.9,11,True,False,8,True,+91 7506070001,2024
+G0329,Mohan Gupta,Mumbai,19.098819,72.877249,NGO Partner,Escort Service,"Marathi, English",4.6,6,True,False,134,True,+91 9302552969,2023
+G0330,Rekha Nair,Goa,15.292783,74.09864,NGO Partner,Legal Aid,"Hindi, Portuguese",4.8,20,True,True,289,True,+91 8317064971,2024
+G0331,Dev Singh,Hyderabad,17.414942,78.50617,Host Family,Language Assist,"Urdu, English, Telugu",4.1,8,True,True,178,True,+91 9637218862,2020
+G0332,Raj Kumar,Bangalore,12.980623,77.580697,NGO Partner,Legal Aid,"Kannada, Tamil",3.9,16,True,True,194,True,+91 7162157936,2023
+G0333,Sanjay Reddy,Pune,18.562131,73.820382,NGO Partner,Language Assist,"English, Hindi, Marathi",4.9,3,True,False,270,True,+91 7144351055,2024
+G0334,Suresh Verma,Ahmedabad,23.017101,72.539913,Certified Ally,Medical Help,"English, Gujarati, Hindi",4.5,3,False,True,146,True,+91 8516671766,2023
+G0335,Vinod Patel,Pune,18.557695,73.879922,Hostel Guardian,Escort Service,"Marathi, English, Hindi",4.8,20,False,True,146,True,+91 7835479352,2023
+G0336,Geeta Ali,Pune,18.536278,73.875928,Verified Local Woman,Legal Aid,"Marathi, Hindi, English",4.8,5,True,True,64,True,+91 8106784665,2024
+G0337,Radha Khan,Goa,15.274267,74.122942,Host Family,Escort Service,"Portuguese, English",4.1,17,True,False,19,True,+91 8107327477,2020
+G0338,Geeta Mehta,Pune,18.569167,73.901106,Hostel Guardian,Legal Aid,"Marathi, English, Hindi",3.8,3,True,True,152,True,+91 9893510498,2022
+G0339,Sunita Nair,Delhi,28.634458,77.251525,Hostel Guardian,Escort Service,"English, Urdu, Punjabi",4.0,8,False,False,102,True,+91 7857561275,2021
+G0340,Pooja Menon,Kochi,9.937995,76.308849,Host Family,Medical Help,Tamil,3.8,14,True,True,45,True,+91 9849384717,2023
+G0341,Dev Khan,Goa,15.319042,74.103735,Certified Ally,Legal Aid,Konkani,4.9,13,True,False,299,True,+91 9107992942,2021
+G0342,Sanjay Rao,Ahmedabad,23.069606,72.615827,Host Family,Emergency Response,"Hindi, Gujarati",4.4,19,True,True,281,True,+91 8491594744,2023
+G0343,Neha Ali,Bhopal,23.296104,77.447055,NGO Partner,Escort Service,English,4.2,3,True,True,56,True,+91 9631861860,2022
+G0344,Sana Mishra,Bangalore,13.004492,77.548301,Certified Ally,Escort Service,"Hindi, Kannada, English",4.5,8,True,True,195,True,+91 8720532107,2022
+G0345,Kavya Rao,Jaipur,26.885401,75.749357,Host Family,Emergency Response,English,3.9,11,True,True,200,True,+91 7642304025,2023
+G0346,Sana Kumar,Mumbai,19.095629,72.861687,Hostel Guardian,Legal Aid,Gujarati,4.7,13,True,True,292,True,+91 7204909902,2023
+G0347,Raj Iyer,Delhi,28.570436,77.190529,NGO Partner,General Safety,"English, Hindi, Punjabi",4.4,6,True,True,189,True,+91 9394407686,2022
+G0348,Neha Mehta,Hyderabad,17.414072,78.468575,Hostel Guardian,Medical Help,Urdu,4.6,20,True,False,186,True,+91 9192342557,2023
+G0349,Asha Joshi,Kochi,9.969798,76.278886,NGO Partner,General Safety,"Malayalam, English",4.1,7,False,False,177,True,+91 9629852007,2024
+G0350,Sneha Gupta,Pune,18.47284,73.89371,Host Family,Escort Service,Marathi,3.8,13,True,False,207,True,+91 8910824002,2022
+G0351,Sneha Sharma,Kochi,9.96867,76.270194,Host Family,General Safety,"Hindi, English, Malayalam",4.9,10,True,False,45,True,+91 8705297819,2020
+G0352,Deepa Verma,Delhi,28.643778,77.258793,Verified Local Woman,Language Assist,Urdu,4.2,19,True,True,139,True,+91 7362114114,2023
+G0353,Vikram Joshi,Kolkata,22.599319,88.354093,NGO Partner,General Safety,Bengali,4.4,7,True,False,19,True,+91 8532621454,2022
+G0354,Deepa Roy,Jaipur,26.925151,75.824668,Host Family,General Safety,"English, Rajasthani",5.0,20,True,True,293,True,+91 9747862122,2024
+G0355,Mohan Patel,Kolkata,22.599427,88.355677,NGO Partner,Escort Service,"Hindi, Bengali",4.3,14,True,True,10,True,+91 7585405992,2022
+G0356,Arjun Khan,Kolkata,22.596358,88.337778,NGO Partner,Escort Service,"English, Bengali",3.9,3,True,False,123,True,+91 9354553463,2022
+G0357,Meera Reddy,Chennai,13.068162,80.249424,NGO Partner,Language Assist,"Malayalam, English",4.2,10,True,True,127,True,+91 9633743591,2022
+G0358,Pooja Patel,Kolkata,22.545961,88.318109,Host Family,Medical Help,"English, Hindi, Bengali",3.8,12,True,True,236,True,+91 9674707124,2023
+G0359,Ananya Pillai,Chennai,13.131472,80.263477,Verified Local Woman,Medical Help,"Tamil, Malayalam",4.3,6,True,True,229,True,+91 7999913493,2020
+G0360,Pooja Gupta,Bangalore,12.989565,77.566425,NGO Partner,Escort Service,Tamil,4.9,18,False,True,21,True,+91 7627442454,2020
+G0361,Sneha Nair,Kolkata,22.601235,88.322841,Certified Ally,Language Assist,"Bengali, Hindi",4.3,3,True,False,132,True,+91 8902502763,2021
+G0362,Lakshmi Singh,Kochi,9.969112,76.311773,Hostel Guardian,General Safety,English,4.4,9,True,False,164,False,+91 7681230929,2020
+G0363,Ramesh Joshi,Kochi,9.942541,76.234003,Host Family,Escort Service,"Malayalam, English, Tamil",5.0,4,False,True,62,True,+91 8864710094,2022
+G0364,Radha Singh,Mumbai,19.049167,72.921973,NGO Partner,Medical Help,English,4.6,3,False,True,248,True,+91 7665685329,2022
+G0365,Sana Patel,Delhi,28.624674,77.210269,Hostel Guardian,Escort Service,English,4.1,4,True,False,279,True,+91 7540424819,2023
+G0366,Vikram Nair,Chennai,13.050353,80.242749,Verified Local Woman,General Safety,"Telugu, English",4.0,15,True,True,25,True,+91 8879048201,2024
+G0367,Radha Reddy,Kolkata,22.600558,88.348913,Hostel Guardian,Escort Service,"English, Hindi, Bengali",3.9,13,True,True,288,True,+91 9281217890,2021
+G0368,Lakshmi Sharma,Jaipur,26.95931,75.825679,Hostel Guardian,Language Assist,"Rajasthani, English",4.9,8,False,False,191,True,+91 8025580463,2022
+G0369,Pooja Ali,Kochi,9.980691,76.23469,NGO Partner,Legal Aid,Hindi,4.3,7,True,True,169,True,+91 9247129194,2020
+G0370,Dev Verma,Mumbai,19.101824,72.897302,Host Family,Emergency Response,Marathi,4.0,18,True,True,203,True,+91 9258385550,2024
+G0371,Meera Mishra,Kochi,9.962783,76.239744,Verified Local Woman,Emergency Response,"Tamil, Malayalam, English",4.1,9,True,False,45,True,+91 9744126400,2020
+G0372,Raj Mishra,Hyderabad,17.388697,78.495994,Certified Ally,Legal Aid,"Urdu, Hindi, Telugu",4.5,4,True,False,44,False,+91 9231172272,2020
+G0373,Pooja Nair,Delhi,28.573049,77.246746,Hostel Guardian,General Safety,"English, Punjabi, Urdu",4.1,10,True,False,290,True,+91 8783204262,2020
+G0374,Anil Singh,Bhopal,23.222851,77.451475,Host Family,Medical Help,"English, Urdu, Hindi",4.9,20,True,True,85,True,+91 9576618444,2023
+G0375,Geeta Das,Hyderabad,17.421213,78.517652,Certified Ally,Legal Aid,"English, Hindi",4.6,10,True,True,286,False,+91 8091304489,2022
+G0376,Vikram Verma,Jaipur,26.917486,75.745999,Certified Ally,Legal Aid,"Rajasthani, Hindi",4.3,3,True,False,159,True,+91 7952996130,2021
+G0377,Vinod Pillai,Hyderabad,17.372269,78.462675,Hostel Guardian,Legal Aid,English,4.7,7,True,True,84,True,+91 8576609019,2024
+G0378,Mohan Joshi,Chennai,13.082288,80.228805,Verified Local Woman,Legal Aid,Telugu,4.1,15,True,True,44,True,+91 9072464202,2021
+G0379,Ananya Rao,Jaipur,26.930726,75.744913,NGO Partner,Emergency Response,"English, Hindi, Rajasthani",4.8,4,False,True,227,True,+91 7517717617,2021
+G0380,Ananya Joshi,Kochi,9.930715,76.265359,Hostel Guardian,Emergency Response,"Malayalam, Tamil, English",4.5,13,True,True,262,True,+91 7657978181,2020
+G0381,Meera Das,Bhopal,23.292368,77.397381,Certified Ally,Language Assist,"English, Urdu, Hindi",4.6,7,True,True,297,True,+91 9354296652,2023
+G0382,Nisha Das,Kolkata,22.579173,88.340603,Host Family,Medical Help,Hindi,4.9,18,True,True,297,True,+91 9645686265,2024
+G0383,Divya Das,Chennai,13.112443,80.286545,Certified Ally,General Safety,Tamil,4.8,5,True,True,192,True,+91 8377560770,2022
+G0384,Sunita Mishra,Goa,15.336029,74.144836,NGO Partner,Legal Aid,"Konkani, English, Portuguese",4.8,7,True,False,124,True,+91 8605548088,2021
+G0385,Vikram Verma,Kochi,9.950947,76.285314,Host Family,Legal Aid,Malayalam,4.5,7,False,False,12,True,+91 7477935341,2022
+G0386,Pooja Pillai,Jaipur,26.937672,75.753161,Host Family,Medical Help,"Hindi, Rajasthani",4.9,20,True,True,252,True,+91 7607082537,2020
+G0387,Sneha Verma,Pune,18.557584,73.809625,Certified Ally,Medical Help,"English, Marathi, Hindi",4.8,11,True,False,9,True,+91 9836279709,2022
+G0388,Aisha Shah,Bhopal,23.222787,77.396112,Host Family,Language Assist,"English, Hindi, Urdu",4.7,19,False,True,166,True,+91 9564552498,2024
+G0389,Nisha Roy,Delhi,28.579976,77.240797,Hostel Guardian,General Safety,English,4.8,3,True,False,161,True,+91 8689639333,2021
+G0390,Ramesh Joshi,Mumbai,19.076747,72.828339,Host Family,Legal Aid,"English, Marathi",4.1,11,True,False,203,True,+91 7126555049,2024
+G0391,Fatima Shah,Kolkata,22.584293,88.412019,Host Family,Emergency Response,Bengali,4.6,15,True,False,121,True,+91 9460580557,2021
+G0392,Lakshmi Pillai,Pune,18.49638,73.870101,Host Family,Medical Help,"English, Hindi",4.4,7,True,False,108,True,+91 8327137995,2024
+G0393,Vinod Rao,Bangalore,12.999585,77.555298,Host Family,Escort Service,"English, Hindi",4.7,5,True,False,65,True,+91 7625015806,2020
+G0394,Lakshmi Iyer,Hyderabad,17.389127,78.532999,Host Family,Medical Help,"Urdu, Hindi",4.2,6,True,True,141,True,+91 9630074869,2021
+G0395,Suresh Sharma,Goa,15.312562,74.167203,Certified Ally,Emergency Response,English,3.9,18,True,False,245,True,+91 8606143397,2021
+G0396,Sneha Nair,Pune,18.564123,73.875489,Host Family,Emergency Response,"Hindi, Marathi",3.9,16,True,True,143,False,+91 7955863041,2021
+G0397,Vinod Roy,Chennai,13.062796,80.291517,Hostel Guardian,Language Assist,English,3.9,13,False,False,223,True,+91 7179642495,2024
+G0398,Asha Rao,Kochi,9.939417,76.251888,Hostel Guardian,Legal Aid,"Tamil, English",4.5,19,True,False,24,True,+91 8939648421,2023
+G0399,Vikram Verma,Mumbai,19.030574,72.914854,Hostel Guardian,Language Assist,Gujarati,5.0,19,True,False,102,True,+91 8709568319,2022
+G0400,Aisha Mishra,Kolkata,22.619488,88.388865,Verified Local Woman,General Safety,"Bengali, Hindi",4.0,19,False,True,236,True,+91 9150308852,2020
+G0401,Fatima Roy,Bangalore,12.997426,77.547059,Verified Local Woman,Medical Help,"English, Tamil, Hindi",3.8,17,True,False,108,True,+91 7387318705,2022
+G0402,Riya Singh,Hyderabad,17.367361,78.485564,NGO Partner,General Safety,"Hindi, English, Telugu",4.7,14,True,False,266,True,+91 7686763846,2023
+G0403,Vinod Gupta,Ahmedabad,23.04083,72.56599,Hostel Guardian,General Safety,"Gujarati, English",4.1,7,True,True,31,True,+91 8329370993,2023
+G0404,Pooja Sharma,Kolkata,22.622312,88.356518,Hostel Guardian,Escort Service,"Bengali, English, Hindi",4.3,3,True,False,283,True,+91 9611271078,2023
+G0405,Lakshmi Das,Chennai,13.049062,80.300181,NGO Partner,Emergency Response,Malayalam,4.6,3,True,True,290,True,+91 7891796718,2020
+G0406,Ramesh Mehta,Bangalore,12.943677,77.552838,Verified Local Woman,Medical Help,Kannada,4.6,4,True,False,157,True,+91 7376680187,2020
+G0407,Suresh Joshi,Delhi,28.629351,77.186326,Hostel Guardian,General Safety,"English, Hindi",4.9,20,True,True,189,False,+91 7399974336,2022
+G0408,Sanjay Das,Hyderabad,17.350106,78.479933,Hostel Guardian,Emergency Response,"Urdu, Telugu",4.9,12,True,True,145,True,+91 8777076693,2024
+G0409,Neha Rao,Chennai,13.074673,80.284553,Hostel Guardian,Emergency Response,"English, Telugu, Tamil",4.3,18,True,False,152,True,+91 8359308025,2022
+G0410,Asha Rao,Ahmedabad,22.999922,72.619798,NGO Partner,Legal Aid,"English, Hindi, Gujarati",4.3,18,True,True,124,True,+91 7831314297,2020
+G0411,Ramesh Singh,Delhi,28.65331,77.181995,Host Family,Legal Aid,Urdu,4.1,16,True,True,291,True,+91 7911984483,2020
+G0412,Aisha Iyer,Bhopal,23.213013,77.427767,Verified Local Woman,Escort Service,Urdu,4.2,12,True,True,8,True,+91 8431439122,2022
+G0413,Pooja Gupta,Pune,18.556836,73.854021,Certified Ally,General Safety,"English, Marathi, Hindi",5.0,18,False,False,74,True,+91 9693805581,2023
+G0414,Vinod Verma,Ahmedabad,22.991053,72.608262,Hostel Guardian,Escort Service,"Hindi, English",4.7,13,True,True,300,True,+91 8518681304,2020
+G0415,Rekha Pillai,Bangalore,12.998692,77.629078,Host Family,Legal Aid,"Kannada, English",4.7,15,True,True,162,True,+91 8350764609,2020
+G0416,Anil Menon,Kolkata,22.585222,88.327024,Certified Ally,Language Assist,"Bengali, Hindi",3.8,12,True,True,62,True,+91 7160610438,2021
+G0417,Anil Ali,Delhi,28.655985,77.220665,Host Family,Medical Help,"Hindi, English",4.8,13,False,False,273,True,+91 8405905813,2021
+G0418,Lakshmi Shah,Delhi,28.612052,77.170731,Hostel Guardian,Emergency Response,"English, Hindi, Punjabi",4.0,3,True,True,49,True,+91 7198168828,2020
+G0419,Radha Joshi,Ahmedabad,23.041057,72.564431,Host Family,Escort Service,"English, Hindi, Gujarati",4.0,9,True,True,168,True,+91 9882455823,2020
+G0420,Divya Singh,Kolkata,22.571759,88.320321,Verified Local Woman,Legal Aid,Bengali,4.5,20,True,True,184,True,+91 8164159934,2021
+G0421,Riya Joshi,Kochi,9.908099,76.297056,Hostel Guardian,Escort Service,"English, Malayalam",4.2,20,True,True,246,False,+91 7216706931,2020
+G0422,Geeta Shah,Pune,18.515922,73.807862,Host Family,General Safety,Marathi,3.9,17,True,True,106,True,+91 9881365834,2024
+G0423,Raj Roy,Delhi,28.603149,77.206994,Verified Local Woman,Language Assist,"English, Hindi",4.5,12,True,False,243,True,+91 7961189885,2021
+G0424,Sneha Gupta,Goa,15.278466,74.143498,Certified Ally,Language Assist,"Hindi, English",4.8,18,True,True,184,True,+91 7733587041,2022
+G0425,Rekha Singh,Hyderabad,17.412985,78.440662,Certified Ally,Legal Aid,"Hindi, English, Telugu",4.4,5,True,True,210,True,+91 8024673062,2024
+G0426,Riya Gupta,Chennai,13.043193,80.244905,Host Family,General Safety,"English, Malayalam, Telugu",5.0,16,True,True,180,True,+91 8014275094,2021
+G0427,Radha Mishra,Bhopal,23.22415,77.412489,NGO Partner,Escort Service,"Hindi, English, Urdu",4.5,20,True,True,162,False,+91 7298962512,2024
+G0428,Ramesh Verma,Delhi,28.634146,77.214965,Verified Local Woman,Medical Help,"Urdu, English, Punjabi",3.8,7,False,False,5,True,+91 9838463998,2021
+G0429,Pooja Nair,Jaipur,26.895046,75.789071,Certified Ally,Escort Service,"Rajasthani, English, Hindi",3.9,12,False,False,181,False,+91 9502793324,2020
+G0430,Ananya Mehta,Goa,15.284363,74.07732,Hostel Guardian,Emergency Response,"Portuguese, Konkani, English",3.9,3,True,False,188,True,+91 8212079465,2020
+G0431,Fatima Shah,Chennai,13.072392,80.233972,NGO Partner,Language Assist,"Malayalam, Telugu",4.5,16,True,False,248,True,+91 9385517516,2023
+G0432,Dev Kumar,Hyderabad,17.403946,78.516759,Host Family,Emergency Response,"Hindi, Urdu",4.0,5,True,True,254,True,+91 7583152392,2020
+G0433,Asha Reddy,Bangalore,12.938348,77.555057,NGO Partner,Legal Aid,"Tamil, English, Hindi",4.6,16,True,True,186,True,+91 8824381233,2024
+G0434,Arjun Ali,Mumbai,19.096648,72.830859,Certified Ally,Language Assist,"Gujarati, English, Hindi",4.9,20,True,True,24,True,+91 8583033048,2020
+G0435,Vikram Ali,Goa,15.254497,74.12813,Certified Ally,Language Assist,"Konkani, Portuguese",4.7,19,True,False,50,True,+91 9708676312,2020
+G0436,Anil Gupta,Bhopal,23.296997,77.434009,Hostel Guardian,Emergency Response,"Urdu, English, Hindi",4.8,18,True,False,298,True,+91 8808250421,2022
+G0437,Arjun Mishra,Kolkata,22.556545,88.395383,Certified Ally,General Safety,"Bengali, English",3.9,11,True,True,91,True,+91 9818872419,2022
+G0438,Riya Kumar,Kochi,9.970682,76.272059,Hostel Guardian,Emergency Response,"Malayalam, English, Tamil",4.8,11,True,False,145,True,+91 7061001449,2020
+G0439,Suresh Roy,Goa,15.294532,74.138358,Certified Ally,Medical Help,English,4.4,11,True,True,97,True,+91 7142122736,2022
+G0440,Raj Khan,Delhi,28.637059,77.167163,NGO Partner,Language Assist,English,3.9,10,True,False,90,True,+91 8482088956,2020
+G0441,Sneha Roy,Bhopal,23.23461,77.378554,NGO Partner,Language Assist,"Hindi, Urdu",4.8,12,True,False,277,True,+91 9935652923,2023
+G0442,Priya Joshi,Jaipur,26.884321,75.834887,NGO Partner,Language Assist,"Hindi, Rajasthani",4.2,13,False,False,26,True,+91 9281887562,2022
+G0443,Divya Iyer,Pune,18.488612,73.88567,Verified Local Woman,Escort Service,"English, Hindi, Marathi",4.6,15,True,False,128,True,+91 9528551559,2021
+G0444,Fatima Pillai,Ahmedabad,23.02232,72.576936,Verified Local Woman,General Safety,"English, Gujarati",4.7,3,True,True,55,True,+91 9944198153,2023
+G0445,Divya Nair,Hyderabad,17.357845,78.536333,Verified Local Woman,Emergency Response,English,5.0,5,True,True,116,False,+91 9740545127,2020
+G0446,Dev Mishra,Kochi,9.946233,76.237254,Host Family,Language Assist,Malayalam,4.6,8,False,False,134,True,+91 9836730724,2020
+G0447,Arjun Gupta,Bhopal,23.21712,77.365665,Certified Ally,Medical Help,"English, Urdu",4.1,5,True,True,203,True,+91 7257949939,2022
+G0448,Riya Khan,Kolkata,22.568862,88.400727,Host Family,Legal Aid,Hindi,4.7,15,True,True,78,True,+91 8852220019,2021
+G0449,Neha Verma,Goa,15.323571,74.116549,Verified Local Woman,Emergency Response,"Konkani, English, Hindi",4.2,11,True,True,259,True,+91 9750219066,2020
+G0450,Arjun Gupta,Mumbai,19.063104,72.926465,NGO Partner,Legal Aid,"Gujarati, Marathi, Hindi",3.8,3,True,False,256,True,+91 8734792059,2020
+G0451,Rekha Khan,Ahmedabad,23.059203,72.579268,Verified Local Woman,Legal Aid,Gujarati,4.3,20,False,True,160,True,+91 9715589803,2020
+G0452,Sanjay Joshi,Hyderabad,17.407526,78.485367,Host Family,Medical Help,"English, Telugu, Hindi",4.8,20,True,True,102,True,+91 8675487027,2020
+G0453,Anil Roy,Bhopal,23.29997,77.404772,Host Family,Medical Help,"English, Urdu, Hindi",4.1,4,True,False,127,True,+91 7270551270,2024
+G0454,Priya Verma,Bhopal,23.269135,77.453836,Certified Ally,Emergency Response,"English, Urdu",4.1,13,True,True,65,True,+91 9808264092,2024
+G0455,Vinod Patel,Jaipur,26.924697,75.800456,Verified Local Woman,General Safety,"English, Hindi, Rajasthani",4.7,7,True,True,28,True,+91 9786516452,2021
+G0456,Anil Joshi,Mumbai,19.039157,72.899282,Verified Local Woman,Language Assist,Hindi,4.9,8,True,True,59,True,+91 9555408498,2024
+G0457,Geeta Gupta,Chennai,13.050668,80.244454,NGO Partner,Escort Service,English,5.0,6,False,True,75,True,+91 7915823748,2020
+G0458,Riya Singh,Goa,15.267398,74.159439,Certified Ally,Medical Help,Hindi,4.4,16,True,True,89,True,+91 9499610004,2020
+G0459,Sanjay Reddy,Bangalore,12.946323,77.631675,Verified Local Woman,Language Assist,Tamil,4.3,5,True,True,50,True,+91 9550053175,2022
+G0460,Kavya Iyer,Pune,18.521882,73.842623,Hostel Guardian,Language Assist,"Hindi, Marathi, English",4.5,16,True,True,24,True,+91 9147001030,2024
+G0461,Priya Pillai,Delhi,28.580252,77.198108,Host Family,Medical Help,"Punjabi, English, Urdu",5.0,6,False,False,190,True,+91 9318091886,2024
+G0462,Ananya Nair,Chennai,13.058513,80.286374,Verified Local Woman,Medical Help,"English, Malayalam",4.2,18,True,True,27,True,+91 8564197331,2022
+G0463,Asha Roy,Chennai,13.110047,80.233787,Verified Local Woman,Emergency Response,"Telugu, English",5.0,4,False,True,19,True,+91 7498495745,2020
+G0464,Geeta Nair,Chennai,13.078079,80.244305,Certified Ally,Medical Help,"Malayalam, Telugu, English",3.9,6,True,True,216,True,+91 8612899327,2021
+G0465,Anil Das,Delhi,28.580876,77.210977,Host Family,Medical Help,"Urdu, Hindi",4.2,17,True,True,239,True,+91 9714510040,2022
+G0466,Kavya Verma,Kolkata,22.605488,88.356989,Hostel Guardian,Emergency Response,Hindi,4.1,11,True,False,239,True,+91 8475647712,2021
+G0467,Riya Das,Kolkata,22.584314,88.384578,Hostel Guardian,Language Assist,"Bengali, English, Hindi",4.0,9,True,False,147,True,+91 8838720022,2021
+G0468,Meera Rao,Chennai,13.049462,80.224367,Host Family,Legal Aid,"Malayalam, Telugu",4.7,3,True,True,245,True,+91 9165592658,2020
+G0469,Lakshmi Khan,Pune,18.53678,73.854163,Host Family,Emergency Response,"Hindi, English, Marathi",4.8,20,True,False,213,False,+91 7569993705,2022
+G0470,Riya Sharma,Kolkata,22.603167,88.372435,NGO Partner,General Safety,English,4.8,12,True,True,297,True,+91 7104855070,2023
+G0471,Rekha Reddy,Jaipur,26.882984,75.748492,Certified Ally,General Safety,English,4.1,17,True,True,41,True,+91 9966751401,2022
+G0472,Geeta Iyer,Ahmedabad,22.978209,72.574517,Hostel Guardian,Legal Aid,Hindi,4.9,9,True,True,176,True,+91 7235414339,2024
+G0473,Rekha Mehta,Bhopal,23.213834,77.374811,NGO Partner,Legal Aid,"Hindi, Urdu",4.3,4,True,True,291,True,+91 9408438165,2021
+G0474,Neha Khan,Bangalore,13.014988,77.576216,Hostel Guardian,General Safety,"English, Hindi",4.4,9,True,False,169,True,+91 8148293223,2024
+G0475,Riya Mehta,Bhopal,23.214057,77.377434,Certified Ally,Language Assist,"English, Hindi",5.0,18,True,False,245,True,+91 9913311922,2024
+G0476,Mohan Patel,Kolkata,22.619112,88.314394,Host Family,Language Assist,"English, Hindi",4.9,5,True,False,152,False,+91 7330486187,2020
+G0477,Kavya Khan,Bangalore,12.985512,77.631392,Host Family,Medical Help,"Kannada, Hindi",4.3,19,False,True,218,False,+91 9325445408,2021
+G0478,Vikram Sharma,Jaipur,26.91396,75.786185,Certified Ally,Medical Help,"Rajasthani, English",4.6,5,True,False,271,True,+91 8768202514,2024
+G0479,Lakshmi Joshi,Hyderabad,17.348965,78.439697,Hostel Guardian,Medical Help,"English, Hindi, Urdu",4.2,12,True,True,252,True,+91 8237578891,2020
+G0480,Sneha Mishra,Bangalore,12.992068,77.564785,Host Family,General Safety,"Hindi, English",4.6,20,True,False,83,True,+91 7502156141,2020
+G0481,Sunita Reddy,Hyderabad,17.431991,78.44609,Host Family,Legal Aid,"Hindi, Urdu, English",4.6,4,True,False,80,True,+91 9318709355,2021
+G0482,Rekha Khan,Ahmedabad,23.016875,72.608214,Host Family,Language Assist,"Gujarati, English",4.0,13,True,False,284,False,+91 8422839527,2022
+G0483,Mohan Rao,Jaipur,26.931663,75.821112,NGO Partner,Escort Service,"English, Hindi",4.9,6,True,False,76,True,+91 7501979037,2022
+G0484,Sunita Patel,Mumbai,19.094325,72.877417,Certified Ally,Emergency Response,"Marathi, Gujarati",4.5,9,True,True,147,True,+91 7359014379,2024
+G0485,Pooja Khan,Jaipur,26.94929,75.794361,Certified Ally,Legal Aid,"English, Hindi, Rajasthani",3.8,19,False,False,189,True,+91 8836701887,2022
+G0486,Sunita Mehta,Pune,18.563495,73.875653,Certified Ally,Language Assist,"Marathi, Hindi",4.6,20,True,False,232,True,+91 8785030376,2023
+G0487,Anil Das,Kolkata,22.544168,88.379789,NGO Partner,Medical Help,English,4.3,5,True,True,273,False,+91 7283965102,2024
+G0488,Geeta Iyer,Pune,18.535523,73.817359,NGO Partner,Medical Help,Marathi,4.6,20,True,True,75,True,+91 8639687675,2022
+G0489,Raj Rao,Ahmedabad,23.072441,72.526221,Certified Ally,Language Assist,"Gujarati, Hindi",5.0,20,True,True,6,True,+91 8289217783,2023
+G0490,Sana Menon,Delhi,28.604591,77.246075,Verified Local Woman,Emergency Response,"Punjabi, English, Hindi",4.7,11,True,False,190,True,+91 9429124352,2023
+G0491,Sunita Ali,Kolkata,22.579302,88.387745,Hostel Guardian,Emergency Response,"English, Hindi, Bengali",4.9,11,True,True,168,True,+91 9977628013,2021
+G0492,Divya Mehta,Hyderabad,17.375414,78.469403,NGO Partner,General Safety,Telugu,4.6,14,True,True,44,True,+91 9697368099,2021
+G0493,Dev Gupta,Delhi,28.644685,77.235229,Certified Ally,Escort Service,"English, Punjabi, Urdu",4.8,14,True,True,78,True,+91 9225526419,2022
+G0494,Vinod Reddy,Hyderabad,17.378558,78.518483,Verified Local Woman,Medical Help,"Urdu, Hindi",3.9,7,True,False,291,True,+91 9257661694,2024
+G0495,Vinod Patel,Kochi,9.935649,76.217876,Verified Local Woman,Medical Help,"Malayalam, English, Tamil",4.2,3,True,True,190,True,+91 8898108832,2024
+G0496,Priya Singh,Ahmedabad,23.009146,72.561017,Host Family,Medical Help,"Gujarati, Hindi",4.6,7,True,True,112,True,+91 7337605742,2023
+G0497,Priya Khan,Kochi,9.920056,76.262169,NGO Partner,Emergency Response,Malayalam,4.1,9,True,False,267,True,+91 9014693343,2020
+G0498,Aisha Sharma,Kolkata,22.559925,88.336627,Verified Local Woman,Emergency Response,Bengali,3.9,9,True,True,184,True,+91 7625162463,2022
+G0499,Dev Ali,Goa,15.309645,74.140821,Hostel Guardian,Medical Help,"Hindi, Konkani",4.5,19,True,True,12,True,+91 7822690321,2022
+G0500,Vinod Nair,Bangalore,12.967949,77.582579,Hostel Guardian,General Safety,"Kannada, Hindi, Tamil",4.8,18,True,True,230,True,+91 7460955243,2021

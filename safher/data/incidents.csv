@@ -1,0 +1,201 @@
+incident_id,city,type,resolved,response_time_min,guardian_type_used,severity,latitude,longitude,year
+INC0001,Hyderabad,Theft,True,18,Host Family,Medium,17.386908,78.484618,2021
+INC0002,Hyderabad,Harassment,True,18,Host Family,Medium,17.337564,78.470825,2023
+INC0003,Kochi,Medical,True,3,Verified Local Woman,Medium,9.91922,76.257182,2024
+INC0004,Delhi,Theft,True,21,Certified Ally,High,28.621917,77.21236,2024
+INC0005,Chennai,Unsafe Area,True,15,Host Family,Low,13.093491,80.297188,2024
+INC0006,Bhopal,Medical,True,23,NGO Partner,High,23.291199,77.434412,2021
+INC0007,Pune,Theft,True,23,Verified Local Woman,Low,18.565952,73.808523,2022
+INC0008,Pune,Theft,True,5,Host Family,Low,18.489978,73.807456,2023
+INC0009,Chennai,Medical,True,14,Verified Local Woman,Low,13.097447,80.310503,2024
+INC0010,Kochi,Theft,True,24,Hostel Guardian,High,9.905548,76.310003,2023
+INC0011,Bhopal,Theft,True,23,Hostel Guardian,Medium,23.215927,77.456044,2024
+INC0012,Ahmedabad,Medical,True,16,Verified Local Woman,Low,23.007662,72.531542,2023
+INC0013,Jaipur,Theft,True,6,Verified Local Woman,Low,26.910987,75.762978,2021
+INC0014,Delhi,Theft,True,7,NGO Partner,High,28.592387,77.189729,2023
+INC0015,Bangalore,Medical,True,5,Verified Local Woman,High,13.001903,77.598516,2024
+INC0016,Jaipur,Lost,True,17,NGO Partner,High,26.893531,75.798333,2023
+INC0017,Ahmedabad,Medical,True,19,Hostel Guardian,Low,23.044115,72.548662,2021
+INC0018,Pune,Harassment,True,12,NGO Partner,Medium,18.511755,73.818889,2024
+INC0019,Mumbai,Harassment,True,23,Certified Ally,High,19.044115,72.895812,2022
+INC0020,Jaipur,Theft,True,24,NGO Partner,Medium,26.880544,75.789816,2021
+INC0021,Goa,Emergency,True,19,Hostel Guardian,High,15.320205,74.084688,2024
+INC0022,Jaipur,Unsafe Area,True,18,Verified Local Woman,Medium,26.919131,75.762956,2023
+INC0023,Jaipur,Unsafe Area,False,21,Certified Ally,Medium,26.958693,75.785655,2023
+INC0024,Mumbai,Harassment,True,6,Certified Ally,Medium,19.106599,72.882723,2021
+INC0025,Bhopal,Medical,True,15,Certified Ally,Medium,23.214241,77.425915,2024
+INC0026,Hyderabad,Harassment,True,9,Host Family,High,17.43014,78.496861,2023
+INC0027,Goa,Harassment,True,4,Certified Ally,Low,15.331219,74.162421,2023
+INC0028,Bangalore,Harassment,True,3,NGO Partner,High,12.944408,77.565804,2024
+INC0029,Goa,Unsafe Area,True,10,Verified Local Woman,High,15.310398,74.115103,2024
+INC0030,Goa,Harassment,False,14,Hostel Guardian,Medium,15.333286,74.164002,2023
+INC0031,Goa,Harassment,True,5,Host Family,Medium,15.284642,74.097687,2024
+INC0032,Ahmedabad,Emergency,True,21,Certified Ally,Medium,23.050553,72.548881,2024
+INC0033,Chennai,Theft,True,4,Hostel Guardian,Low,13.114961,80.263074,2023
+INC0034,Kolkata,Harassment,True,20,NGO Partner,Low,22.589355,88.323454,2021
+INC0035,Kochi,Unsafe Area,True,12,Certified Ally,Low,9.943586,76.262477,2024
+INC0036,Pune,Lost,True,4,Certified Ally,High,18.529061,73.823501,2023
+INC0037,Pune,Emergency,True,8,NGO Partner,Medium,18.544087,73.89298,2023
+INC0038,Goa,Unsafe Area,True,19,Host Family,Low,15.270974,74.083571,2022
+INC0039,Goa,Theft,True,25,NGO Partner,Medium,15.251664,74.138197,2024
+INC0040,Goa,Emergency,True,18,Host Family,Medium,15.310009,74.12867,2024
+INC0041,Bangalore,Lost,True,23,Certified Ally,Medium,12.944795,77.583691,2024
+INC0042,Hyderabad,Harassment,True,15,Certified Ally,Medium,17.394448,78.486377,2022
+INC0043,Kolkata,Emergency,True,14,Host Family,Low,22.621379,88.327544,2022
+INC0044,Chennai,Harassment,True,11,NGO Partner,Medium,13.102214,80.261132,2024
+INC0045,Pune,Emergency,True,8,Host Family,Medium,18.51322,73.87846,2022
+INC0046,Mumbai,Medical,True,10,Hostel Guardian,Low,19.095244,72.926826,2021
+INC0047,Kochi,Theft,True,3,Verified Local Woman,Medium,9.894039,76.227711,2023
+INC0048,Delhi,Theft,True,23,Verified Local Woman,Medium,28.636334,77.216839,2022
+INC0049,Chennai,Harassment,True,18,Verified Local Woman,High,13.060116,80.228642,2023
+INC0050,Jaipur,Harassment,True,5,Certified Ally,Medium,26.870966,75.826719,2024
+INC0051,Kochi,Emergency,True,15,Host Family,Low,9.900387,76.249637,2021
+INC0052,Bangalore,Lost,False,16,NGO Partner,Medium,12.944266,77.5801,2021
+INC0053,Jaipur,Unsafe Area,True,5,Certified Ally,High,26.869342,75.789206,2024
+INC0054,Jaipur,Emergency,True,10,Host Family,Medium,26.869161,75.817336,2024
+INC0055,Kochi,Medical,True,2,Hostel Guardian,Low,9.904571,76.271301,2021
+INC0056,Kochi,Emergency,True,19,NGO Partner,Medium,9.969208,76.282388,2023
+INC0057,Bhopal,Harassment,True,9,NGO Partner,Medium,23.263196,77.395033,2021
+INC0058,Pune,Medical,True,9,Certified Ally,Low,18.5037,73.873649,2022
+INC0059,Jaipur,Emergency,True,22,NGO Partner,Low,26.961814,75.803484,2023
+INC0060,Delhi,Theft,True,15,Certified Ally,High,28.619678,77.232065,2024
+INC0061,Delhi,Lost,True,18,Verified Local Woman,Medium,28.610421,77.165014,2024
+INC0062,Goa,Emergency,True,25,Certified Ally,Medium,15.30553,74.169763,2021
+INC0063,Mumbai,Emergency,True,22,NGO Partner,High,19.04353,72.8967,2022
+INC0064,Mumbai,Theft,True,11,Certified Ally,High,19.046093,72.881283,2021
+INC0065,Delhi,Lost,True,24,Host Family,High,28.573568,77.204037,2024
+INC0066,Hyderabad,Theft,True,25,Host Family,Medium,17.410616,78.471457,2022
+INC0067,Bhopal,Unsafe Area,True,11,Host Family,Low,23.276391,77.442145,2024
+INC0068,Hyderabad,Lost,True,14,Hostel Guardian,Low,17.427718,78.460164,2021
+INC0069,Mumbai,Unsafe Area,True,22,Host Family,Low,19.065932,72.842942,2024
+INC0070,Chennai,Medical,True,7,Verified Local Woman,Medium,13.131948,80.3134,2024
+INC0071,Goa,Medical,True,13,Host Family,High,15.303296,74.158203,2021
+INC0072,Mumbai,Emergency,True,16,NGO Partner,Low,19.078096,72.890059,2022
+INC0073,Kochi,Lost,True,10,Certified Ally,High,9.890112,76.292827,2024
+INC0074,Pune,Lost,True,8,Hostel Guardian,Low,18.483171,73.889307,2023
+INC0075,Kochi,Emergency,True,7,NGO Partner,Low,9.959403,76.288174,2021
+INC0076,Kolkata,Medical,True,16,Host Family,Medium,22.526216,88.344213,2024
+INC0077,Delhi,Harassment,True,12,NGO Partner,High,28.590211,77.195014,2022
+INC0078,Kochi,Theft,True,25,Hostel Guardian,Medium,9.889964,76.310996,2021
+INC0079,Delhi,Unsafe Area,True,12,Host Family,Medium,28.61928,77.189552,2023
+INC0080,Goa,Emergency,False,21,Verified Local Woman,Low,15.288998,74.11872,2023
+INC0081,Ahmedabad,Unsafe Area,True,14,Certified Ally,Low,23.032559,72.572968,2021
+INC0082,Goa,Lost,True,18,NGO Partner,Medium,15.341239,74.123696,2024
+INC0083,Bangalore,Harassment,True,18,NGO Partner,Low,13.020816,77.629742,2023
+INC0084,Delhi,Medical,True,6,NGO Partner,Medium,28.584751,77.25206,2023
+INC0085,Pune,Medical,True,10,Hostel Guardian,Medium,18.482037,73.888445,2023
+INC0086,Pune,Lost,True,17,Host Family,High,18.508462,73.894497,2024
+INC0087,Mumbai,Lost,True,9,Host Family,Low,19.112806,72.908293,2024
+INC0088,Kolkata,Lost,True,15,Verified Local Woman,Medium,22.601603,88.344368,2021
+INC0089,Jaipur,Medical,False,19,NGO Partner,Medium,26.870492,75.777598,2024
+INC0090,Delhi,Emergency,True,5,Certified Ally,Low,28.581252,77.228495,2022
+INC0091,Kolkata,Lost,True,25,Hostel Guardian,Medium,22.55721,88.411461,2022
+INC0092,Goa,Harassment,True,20,Host Family,Medium,15.313397,74.156248,2021
+INC0093,Chennai,Theft,True,12,Verified Local Woman,Medium,13.045952,80.306901,2021
+INC0094,Pune,Medical,True,5,Certified Ally,Low,18.562676,73.855406,2021
+INC0095,Delhi,Theft,True,23,NGO Partner,Medium,28.624525,77.235481,2023
+INC0096,Goa,Emergency,True,3,Hostel Guardian,Medium,15.266784,74.124257,2023
+INC0097,Kochi,Emergency,True,20,Host Family,Low,9.921066,76.231937,2021
+INC0098,Bhopal,Medical,True,3,Verified Local Woman,High,23.246653,77.369417,2024
+INC0099,Delhi,Theft,True,9,NGO Partner,Low,28.566481,77.172517,2021
+INC0100,Chennai,Lost,True,14,Certified Ally,High,13.129012,80.275653,2022
+INC0101,Delhi,Medical,True,15,Certified Ally,High,28.660482,77.20225,2022
+INC0102,Hyderabad,Emergency,True,13,Hostel Guardian,Low,17.366182,78.487314,2024
+INC0103,Jaipur,Theft,True,20,Hostel Guardian,Medium,26.906351,75.747866,2021
+INC0104,Pune,Medical,True,15,NGO Partner,Low,18.534483,73.828304,2021
+INC0105,Ahmedabad,Medical,False,23,Host Family,High,23.034459,72.58642,2022
+INC0106,Jaipur,Unsafe Area,True,18,Verified Local Woman,Medium,26.877602,75.743435,2024
+INC0107,Pune,Harassment,True,17,Certified Ally,Low,18.548476,73.85268,2022
+INC0108,Bhopal,Medical,True,18,NGO Partner,Medium,23.215716,77.462087,2021
+INC0109,Ahmedabad,Harassment,True,18,Verified Local Woman,High,22.978278,72.590904,2024
+INC0110,Pune,Harassment,True,25,Hostel Guardian,Medium,18.568768,73.830618,2023
+INC0111,Kolkata,Unsafe Area,True,18,Verified Local Woman,Low,22.536825,88.326038,2024
+INC0112,Bangalore,Lost,True,3,Verified Local Woman,Medium,12.951928,77.554705,2023
+INC0113,Hyderabad,Unsafe Area,True,23,NGO Partner,High,17.404216,78.442929,2023
+INC0114,Hyderabad,Lost,True,4,Hostel Guardian,Medium,17.385942,78.53637,2021
+INC0115,Pune,Unsafe Area,True,14,Verified Local Woman,Low,18.551797,73.868222,2022
+INC0116,Bhopal,Theft,True,14,Hostel Guardian,High,23.240525,77.42499,2024
+INC0117,Kolkata,Unsafe Area,True,21,Certified Ally,High,22.575304,88.356508,2024
+INC0118,Kolkata,Harassment,True,2,Host Family,Low,22.535671,88.40256,2021
+INC0119,Kochi,Lost,True,8,NGO Partner,High,9.926178,76.236762,2022
+INC0120,Bhopal,Lost,True,22,Hostel Guardian,Low,23.246676,77.404013,2021
+INC0121,Kolkata,Theft,True,15,Verified Local Woman,Low,22.605354,88.387261,2022
+INC0122,Bangalore,Emergency,True,17,NGO Partner,Low,12.99853,77.545703,2024
+INC0123,Goa,Lost,True,20,NGO Partner,Low,15.290915,74.122134,2023
+INC0124,Mumbai,Harassment,True,24,NGO Partner,Medium,19.027919,72.853681,2024
+INC0125,Kochi,Unsafe Area,True,19,Certified Ally,Low,9.957229,76.231011,2024
+INC0126,Pune,Theft,True,25,Hostel Guardian,High,18.523931,73.82822,2024
+INC0127,Chennai,Emergency,True,2,NGO Partner,High,13.033912,80.24482,2023
+INC0128,Ahmedabad,Harassment,True,22,NGO Partner,Medium,23.070087,72.601554,2021
+INC0129,Jaipur,Unsafe Area,False,13,NGO Partner,High,26.958358,75.786085,2024
+INC0130,Mumbai,Lost,True,8,NGO Partner,Medium,19.036974,72.882496,2024
+INC0131,Chennai,Unsafe Area,True,23,Certified Ally,High,13.078138,80.305136,2024
+INC0132,Bangalore,Medical,True,14,NGO Partner,High,12.931408,77.593424,2023
+INC0133,Jaipur,Lost,True,11,Verified Local Woman,High,26.877405,75.769768,2024
+INC0134,Bangalore,Lost,True,21,NGO Partner,Low,12.995336,77.592202,2024
+INC0135,Jaipur,Medical,True,19,Verified Local Woman,Low,26.899989,75.776748,2023
+INC0136,Kolkata,Medical,True,7,Hostel Guardian,Low,22.568545,88.392402,2021
+INC0137,Hyderabad,Theft,True,9,Verified Local Woman,High,17.424208,78.532233,2022
+INC0138,Jaipur,Medical,False,13,Verified Local Woman,High,26.94109,75.768841,2023
+INC0139,Bangalore,Emergency,True,21,Verified Local Woman,High,12.990413,77.58836,2021
+INC0140,Jaipur,Theft,False,5,Verified Local Woman,High,26.887867,75.821387,2021
+INC0141,Ahmedabad,Harassment,True,7,Verified Local Woman,Low,22.976343,72.611576,2023
+INC0142,Bangalore,Emergency,True,16,Hostel Guardian,Medium,12.967748,77.60832,2021
+INC0143,Bangalore,Emergency,True,6,Verified Local Woman,Low,12.987535,77.634112,2024
+INC0144,Pune,Harassment,True,17,Certified Ally,Medium,18.534067,73.868093,2022
+INC0145,Delhi,Medical,True,15,Certified Ally,High,28.570565,77.210841,2022
+INC0146,Bangalore,Unsafe Area,True,9,Host Family,Medium,12.936617,77.618343,2024
+INC0147,Pune,Theft,False,18,Certified Ally,Low,18.521622,73.874723,2024
+INC0148,Bangalore,Harassment,True,18,Verified Local Woman,Low,12.925767,77.553079,2023
+INC0149,Hyderabad,Theft,False,7,NGO Partner,Low,17.406632,78.443908,2024
+INC0150,Mumbai,Emergency,False,6,Hostel Guardian,Low,19.033126,72.828911,2023
+INC0151,Pune,Theft,True,24,Hostel Guardian,Medium,18.56605,73.880451,2023
+INC0152,Hyderabad,Harassment,True,18,Hostel Guardian,Low,17.370325,78.466354,2024
+INC0153,Jaipur,Emergency,True,19,Hostel Guardian,High,26.89737,75.814765,2024
+INC0154,Kochi,Medical,True,22,NGO Partner,Low,9.947337,76.23582,2023
+INC0155,Delhi,Harassment,True,14,Host Family,High,28.581311,77.16884,2023
+INC0156,Chennai,Harassment,True,11,Hostel Guardian,Medium,13.09873,80.297137,2022
+INC0157,Mumbai,Harassment,True,19,Hostel Guardian,Medium,19.052505,72.829794,2022
+INC0158,Kolkata,Emergency,True,18,Verified Local Woman,High,22.530817,88.410686,2021
+INC0159,Hyderabad,Medical,True,13,Verified Local Woman,Low,17.364544,78.513622,2021
+INC0160,Jaipur,Medical,True,2,NGO Partner,Medium,26.924866,75.775494,2022
+INC0161,Kochi,Unsafe Area,True,22,Hostel Guardian,High,9.901769,76.229439,2022
+INC0162,Hyderabad,Medical,True,24,Hostel Guardian,High,17.396501,78.514163,2022
+INC0163,Kochi,Theft,True,9,Verified Local Woman,Medium,9.94559,76.27033,2022
+INC0164,Hyderabad,Theft,True,24,NGO Partner,Medium,17.339195,78.533549,2021
+INC0165,Delhi,Harassment,True,6,NGO Partner,Low,28.643771,77.188282,2024
+INC0166,Delhi,Medical,True,14,Hostel Guardian,High,28.661897,77.219188,2024
+INC0167,Kolkata,Unsafe Area,True,15,NGO Partner,High,22.580842,88.388707,2024
+INC0168,Kochi,Theft,True,6,Hostel Guardian,Low,9.962377,76.282948,2024
+INC0169,Kochi,Theft,True,24,Hostel Guardian,High,9.89401,76.251127,2021
+INC0170,Kochi,Lost,True,3,Host Family,High,9.974008,76.239762,2023
+INC0171,Delhi,Unsafe Area,True,5,Verified Local Woman,Medium,28.601117,77.202208,2023
+INC0172,Mumbai,Unsafe Area,True,13,Certified Ally,Medium,19.06994,72.888994,2023
+INC0173,Kolkata,Theft,True,6,Host Family,High,22.616908,88.337969,2024
+INC0174,Mumbai,Medical,True,8,Host Family,High,19.03815,72.847447,2024
+INC0175,Mumbai,Harassment,True,4,Verified Local Woman,Medium,19.114692,72.892281,2024
+INC0176,Goa,Medical,True,12,NGO Partner,Medium,15.277891,74.155595,2022
+INC0177,Bangalore,Unsafe Area,True,16,NGO Partner,Low,13.007737,77.629251,2023
+INC0178,Delhi,Unsafe Area,True,15,NGO Partner,Low,28.655793,77.184224,2024
+INC0179,Hyderabad,Unsafe Area,True,23,NGO Partner,High,17.410504,78.482754,2023
+INC0180,Bhopal,Harassment,True,24,Verified Local Woman,High,23.2941,77.435449,2023
+INC0181,Ahmedabad,Emergency,True,19,Verified Local Woman,Low,23.050145,72.587016,2021
+INC0182,Goa,Unsafe Area,True,17,Hostel Guardian,Low,15.267043,74.128503,2021
+INC0183,Bhopal,Unsafe Area,True,2,Certified Ally,Low,23.308367,77.456339,2022
+INC0184,Kochi,Unsafe Area,True,19,Hostel Guardian,Medium,9.885517,76.233781,2024
+INC0185,Goa,Harassment,True,2,Certified Ally,Medium,15.262473,74.146598,2022
+INC0186,Pune,Harassment,True,12,NGO Partner,Medium,18.552179,73.828051,2021
+INC0187,Delhi,Harassment,True,11,Host Family,Low,28.614485,77.24307,2023
+INC0188,Delhi,Lost,True,15,Host Family,Low,28.63718,77.213224,2023
+INC0189,Bangalore,Harassment,True,11,NGO Partner,Low,12.980635,77.595436,2023
+INC0190,Bangalore,Theft,True,10,NGO Partner,Low,12.951355,77.601102,2021
+INC0191,Chennai,Lost,True,20,Host Family,Medium,13.101589,80.308032,2024
+INC0192,Delhi,Medical,True,16,Hostel Guardian,Medium,28.627529,77.235112,2021
+INC0193,Jaipur,Harassment,True,9,Verified Local Woman,Medium,26.878407,75.783456,2021
+INC0194,Chennai,Unsafe Area,True,6,Certified Ally,High,13.033633,80.245368,2024
+INC0195,Jaipur,Harassment,True,18,Host Family,Low,26.935046,75.836481,2023
+INC0196,Ahmedabad,Lost,True,19,NGO Partner,High,22.982418,72.561549,2024
+INC0197,Mumbai,Harassment,True,21,Certified Ally,High,19.106007,72.848104,2022
+INC0198,Mumbai,Harassment,False,17,Certified Ally,High,19.081508,72.901007,2023
+INC0199,Bhopal,Theft,False,22,Host Family,High,23.271499,77.381402,2023
+INC0200,Mumbai,Lost,True,20,Verified Local Woman,Medium,19.061538,72.906079,2021

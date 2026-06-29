@@ -1,0 +1,104 @@
+zone_id,city,name,latitude,longitude,safety_score,guardian_count,type
+Z0001,Mumbai,Mumbai Zone 1,19.084676,72.798537,87.3,25,High Safety
+Z0002,Mumbai,Mumbai Zone 2,19.00165,72.917017,59.9,7,Caution
+Z0003,Mumbai,Mumbai Zone 3,19.149292,72.856571,66.0,16,Moderate
+Z0004,Mumbai,Mumbai Zone 4,19.019822,72.846597,93.0,22,Caution
+Z0005,Mumbai,Mumbai Zone 5,19.155413,72.85663,72.0,24,Caution
+Z0006,Mumbai,Mumbai Zone 6,19.111531,72.939491,79.1,23,Caution
+Z0007,Mumbai,Mumbai Zone 7,19.058644,72.863719,84.1,25,Tourist Safe
+Z0008,Mumbai,Mumbai Zone 8,18.996515,72.896834,67.4,11,Moderate
+Z0009,Mumbai,Mumbai Zone 9,19.123072,72.812579,78.8,24,Caution
+Z0010,Mumbai,Mumbai Zone 10,19.072956,72.900472,53.2,13,Moderate
+Z0011,Mumbai,Mumbai Zone 11,19.088797,72.887538,77.5,17,Caution
+Z0012,Delhi,Delhi Zone 1,28.630458,77.237235,89.4,25,Moderate
+Z0013,Delhi,Delhi Zone 2,28.577071,77.261008,74.4,23,High Safety
+Z0014,Delhi,Delhi Zone 3,28.546229,77.138368,66.4,22,Tourist Safe
+Z0015,Delhi,Delhi Zone 4,28.659484,77.242229,88.6,3,High Safety
+Z0016,Delhi,Delhi Zone 5,28.616663,77.199432,57.2,24,Moderate
+Z0017,Bangalore,Bangalore Zone 1,12.944111,77.584043,54.3,20,Tourist Safe
+Z0018,Bangalore,Bangalore Zone 2,12.926898,77.610316,86.0,15,High Safety
+Z0019,Bangalore,Bangalore Zone 3,13.051336,77.663898,81.5,23,High Safety
+Z0020,Bangalore,Bangalore Zone 4,12.959,77.616388,88.5,20,High Safety
+Z0021,Bangalore,Bangalore Zone 5,12.910534,77.580185,91.2,24,Tourist Safe
+Z0022,Bangalore,Bangalore Zone 6,12.953013,77.6061,78.8,24,High Safety
+Z0023,Bangalore,Bangalore Zone 7,12.921116,77.572558,66.4,14,Tourist Safe
+Z0024,Bangalore,Bangalore Zone 8,12.895791,77.518471,90.8,22,Caution
+Z0025,Bangalore,Bangalore Zone 9,12.935291,77.597493,64.6,15,Moderate
+Z0026,Bangalore,Bangalore Zone 10,13.042109,77.556087,71.1,25,High Safety
+Z0027,Bangalore,Bangalore Zone 11,13.031237,77.649309,59.1,6,Tourist Safe
+Z0028,Chennai,Chennai Zone 1,13.131123,80.26401,73.7,9,Tourist Safe
+Z0029,Chennai,Chennai Zone 2,13.024057,80.203596,85.7,3,Moderate
+Z0030,Chennai,Chennai Zone 3,13.082134,80.260596,85.7,3,Caution
+Z0031,Chennai,Chennai Zone 4,13.125182,80.216125,79.9,24,Caution
+Z0032,Chennai,Chennai Zone 5,13.024357,80.31092,82.2,9,High Safety
+Z0033,Chennai,Chennai Zone 6,13.155758,80.201733,52.8,22,Caution
+Z0034,Chennai,Chennai Zone 7,13.04785,80.232573,62.1,25,Moderate
+Z0035,Chennai,Chennai Zone 8,13.147701,80.230627,63.3,10,Tourist Safe
+Z0036,Chennai,Chennai Zone 9,13.124204,80.262658,88.1,14,High Safety
+Z0037,Chennai,Chennai Zone 10,13.013159,80.268711,51.6,11,Tourist Safe
+Z0038,Kolkata,Kolkata Zone 1,22.502625,88.42893,56.8,3,Moderate
+Z0039,Kolkata,Kolkata Zone 2,22.577787,88.349675,67.0,23,Tourist Safe
+Z0040,Kolkata,Kolkata Zone 3,22.636573,88.287392,82.5,6,Caution
+Z0041,Kolkata,Kolkata Zone 4,22.646743,88.373527,95.9,21,Tourist Safe
+Z0042,Kolkata,Kolkata Zone 5,22.500961,88.350907,62.7,8,Moderate
+Z0043,Kolkata,Kolkata Zone 6,22.609531,88.440908,62.6,24,Moderate
+Z0044,Kolkata,Kolkata Zone 7,22.597268,88.315596,77.7,5,Moderate
+Z0045,Kolkata,Kolkata Zone 8,22.566829,88.439421,79.8,5,Moderate
+Z0046,Hyderabad,Hyderabad Zone 1,17.360921,78.424955,57.4,21,Moderate
+Z0047,Hyderabad,Hyderabad Zone 2,17.341051,78.446855,91.7,19,Caution
+Z0048,Hyderabad,Hyderabad Zone 3,17.394796,78.490443,55.6,9,High Safety
+Z0049,Hyderabad,Hyderabad Zone 4,17.442622,78.52235,53.3,25,Caution
+Z0050,Hyderabad,Hyderabad Zone 5,17.418254,78.493666,54.0,24,Tourist Safe
+Z0051,Hyderabad,Hyderabad Zone 6,17.378328,78.484251,58.1,3,Tourist Safe
+Z0052,Hyderabad,Hyderabad Zone 7,17.456312,78.542696,82.8,23,High Safety
+Z0053,Hyderabad,Hyderabad Zone 8,17.378967,78.472582,81.9,13,Tourist Safe
+Z0054,Hyderabad,Hyderabad Zone 9,17.392269,78.416664,75.1,16,Caution
+Z0055,Pune,Pune Zone 1,18.569425,73.850178,52.5,24,Tourist Safe
+Z0056,Pune,Pune Zone 2,18.566205,73.808918,62.7,18,Caution
+Z0057,Pune,Pune Zone 3,18.466753,73.829534,87.1,19,High Safety
+Z0058,Pune,Pune Zone 4,18.523502,73.809481,93.0,10,High Safety
+Z0059,Pune,Pune Zone 5,18.581133,73.915993,61.7,11,Tourist Safe
+Z0060,Pune,Pune Zone 6,18.512598,73.934298,87.8,20,Tourist Safe
+Z0061,Jaipur,Jaipur Zone 1,26.836747,75.717733,72.7,3,Tourist Safe
+Z0062,Jaipur,Jaipur Zone 2,26.977875,75.793492,74.4,9,Caution
+Z0063,Jaipur,Jaipur Zone 3,26.849276,75.812385,90.3,5,High Safety
+Z0064,Jaipur,Jaipur Zone 4,26.893267,75.831398,97.3,10,Tourist Safe
+Z0065,Jaipur,Jaipur Zone 5,26.865003,75.791033,64.1,5,Moderate
+Z0066,Jaipur,Jaipur Zone 6,26.959257,75.799715,81.1,9,Moderate
+Z0067,Jaipur,Jaipur Zone 7,26.960066,75.770655,94.8,13,Caution
+Z0068,Jaipur,Jaipur Zone 8,26.917685,75.732573,84.1,5,High Safety
+Z0069,Jaipur,Jaipur Zone 9,26.959322,75.757982,92.0,3,Tourist Safe
+Z0070,Jaipur,Jaipur Zone 10,26.977383,75.751605,98.2,16,High Safety
+Z0071,Ahmedabad,Ahmedabad Zone 1,22.965014,72.523723,59.0,11,Moderate
+Z0072,Ahmedabad,Ahmedabad Zone 2,23.085538,72.596087,57.5,6,Tourist Safe
+Z0073,Ahmedabad,Ahmedabad Zone 3,23.012952,72.589848,54.1,10,Caution
+Z0074,Ahmedabad,Ahmedabad Zone 4,23.083687,72.619977,74.8,4,Caution
+Z0075,Ahmedabad,Ahmedabad Zone 5,23.09724,72.558242,98.2,19,Moderate
+Z0076,Ahmedabad,Ahmedabad Zone 6,23.049367,72.592947,58.1,5,Tourist Safe
+Z0077,Ahmedabad,Ahmedabad Zone 7,23.083608,72.559798,57.9,6,Tourist Safe
+Z0078,Ahmedabad,Ahmedabad Zone 8,22.944517,72.580961,75.8,21,High Safety
+Z0079,Ahmedabad,Ahmedabad Zone 9,23.057597,72.633841,53.9,5,High Safety
+Z0080,Ahmedabad,Ahmedabad Zone 10,23.059539,72.521386,92.1,4,Tourist Safe
+Z0081,Goa,Goa Zone 1,15.35035,74.130527,84.8,25,High Safety
+Z0082,Goa,Goa Zone 2,15.269596,74.119387,90.3,7,High Safety
+Z0083,Goa,Goa Zone 3,15.292782,74.101248,74.2,17,High Safety
+Z0084,Goa,Goa Zone 4,15.35182,74.097633,58.5,12,Tourist Safe
+Z0085,Goa,Goa Zone 5,15.333222,74.176157,54.9,5,High Safety
+Z0086,Goa,Goa Zone 6,15.25768,74.066716,67.0,24,High Safety
+Z0087,Goa,Goa Zone 7,15.291356,74.163812,81.9,20,High Safety
+Z0088,Goa,Goa Zone 8,15.318649,74.10038,91.2,12,Tourist Safe
+Z0089,Goa,Goa Zone 9,15.294706,74.200657,81.1,15,High Safety
+Z0090,Goa,Goa Zone 10,15.239502,74.152188,65.9,22,Tourist Safe
+Z0091,Bhopal,Bhopal Zone 1,23.289712,77.343743,58.6,22,High Safety
+Z0092,Bhopal,Bhopal Zone 2,23.316818,77.368949,91.0,17,Tourist Safe
+Z0093,Bhopal,Bhopal Zone 3,23.224584,77.435461,84.0,17,Tourist Safe
+Z0094,Bhopal,Bhopal Zone 4,23.261925,77.38145,60.4,22,High Safety
+Z0095,Bhopal,Bhopal Zone 5,23.18521,77.381231,82.0,13,High Safety
+Z0096,Bhopal,Bhopal Zone 6,23.330029,77.471993,87.5,17,Caution
+Z0097,Bhopal,Bhopal Zone 7,23.306052,77.438998,62.8,21,Moderate
+Z0098,Bhopal,Bhopal Zone 8,23.325051,77.439917,77.5,6,High Safety
+Z0099,Kochi,Kochi Zone 1,9.868958,76.258829,72.6,22,High Safety
+Z0100,Kochi,Kochi Zone 2,9.98953,76.274764,68.6,21,Moderate
+Z0101,Kochi,Kochi Zone 3,10.007488,76.205015,70.7,21,Moderate
+Z0102,Kochi,Kochi Zone 4,9.857924,76.305685,95.0,23,Caution
+Z0103,Kochi,Kochi Zone 5,9.896006,76.324635,64.3,14,Tourist Safe
